@@ -52,7 +52,7 @@ def log_error(message):
     error_log.appendleft(f"{datetime.utcnow().isoformat()} - {message}")
     has_active_error = True
     
-    # Reset/Start timer to clear errors after delay
+
     if error_clear_timer and error_clear_timer.is_alive():
         error_clear_timer.cancel()
     error_clear_timer = threading.Timer(ERROR_CLEAR_DELAY, clear_error_log)
@@ -62,11 +62,11 @@ GPS_TIMEOUT_SECONDS = 3
 
 last_sent_lat = None
 last_sent_lon = None
-MOVEMENT_THRESHOLD_METERS = 5  # Only update if moved more than 5 meters
+MOVEMENT_THRESHOLD_METERS = 5  
 
 MODBUS_IP = "172.16.100.94"     
 MODBUS_PORT = 502               
-MODBUS_REGISTER = 0          # ← register index (e.g., 0 for 30001 or 40001)
+MODBUS_REGISTER = 0          
 
 latest_so2_co2 = 10.0 
 
@@ -78,9 +78,8 @@ def modbus_loop():
             if client.connect():
                 result = client.read_input_registers(address=MODBUS_REGISTER, count=2)
                 if result and not result.isError():
-                    # Combine two 16-bit registers into bytes (big-endian or little-endian depending on your device)
-                    register_bytes = struct.pack('>HH', result.registers[0], result.registers[1])  # '>HH' = big-endian
-                    so2_co2 = struct.unpack('>f', register_bytes)[0]  # '>f' = big-endian float
+                    register_bytes = struct.pack('>HH', result.registers[0], result.registers[1])  
+                    so2_co2 = struct.unpack('>f', register_bytes)[0]  
                     latest_so2_co2 = round(so2_co2, 2)
                     print(f"[MODBUS] Updated SO₂/CO₂ ratio: {latest_so2_co2}")
                 else:
@@ -140,7 +139,6 @@ def haversine(lat1, lon1, lat2, lon2):
     return R * c
 
 def calculate_heading(lat1, lon1, lat2, lon2):
-    # Convert to radians
     phi1 = math.radians(lat1)
     phi2 = math.radians(lat2)
     delta_lon = math.radians(lon2 - lon1)
@@ -163,12 +161,10 @@ vessel_path_history = []
 so2_co2_ratio_points = np.array([4.3, 21.7, 30])          
 sulphur_content_points = np.array([0.10, 0.50, 0.70])    
 
-# Use np.interp for quick interpolation (sulphur from ratio)
 new_ratio = 10.0
 sulphur_value = np.interp(new_ratio, so2_co2_ratio_points, sulphur_content_points)
 print(f"Interpolated Sulphur Content for SO2/CO2 ratio {new_ratio}: {sulphur_value:.4f}")
 
-# interp1d function to get ratio from sulphur (inverse mapping)
 interp_func = interp1d(
     sulphur_content_points,
     so2_co2_ratio_points,
@@ -222,7 +218,7 @@ def find_gps_serial_port(baudrate=4800, timeout=1):
         print(f"Checking port: {port.device}")
         try:
             ser = serial.Serial(port.device, baudrate=baudrate, timeout=timeout)
-            time.sleep(2)  # Wait for data to arrive
+            time.sleep(2)  
             lines_read = 0
             while lines_read < 10:
                 line = ser.readline().decode('utf-8', errors='ignore').strip()
@@ -241,14 +237,12 @@ ser = find_gps_serial_port()
 
 def resource_path(relative_path):
     """ Get absolute path to resource, always relative to the EXE folder or current dir """
-    if getattr(sys, 'frozen', False):  # Running as a PyInstaller bundle
+    if getattr(sys, 'frozen', False):  
         base_path = os.path.dirname(sys.executable)
     else:
-        base_path = os.path.abspath(".")  # Dev mode
-
+        base_path = os.path.abspath(".")  
     return os.path.join(base_path, relative_path)
 
-# Now load the geojson using this path
 try:
     geojson_path = resource_path("static/eca_boundaries.geojson")
     eca_gdf = gpd.read_file(geojson_path).to_crs(epsg=4326)
@@ -264,7 +258,7 @@ def generate_map(lat, lon, compliance, in_eca, heading):
 
     if len(vessel_path_history) > 1:
         folium.PolyLine(vessel_path_history, color="blue", weight=3, opacity=0.7).add_to(m)
-    offset_distance = 0.01  # ~1km offset depending on latitude
+    offset_distance = 0.01  
     heading_rad = math.radians(heading)
     arrow_lat = lat + offset_distance * math.cos(heading_rad)
     arrow_lon = lon + offset_distance * math.sin(heading_rad)
@@ -326,10 +320,9 @@ def read_serial_data():
                         if previous_point["lat"] is not None:
                             heading = calculate_heading(previous_point["lat"], previous_point["lon"], lat, lon)
                         else:
-                            heading = 0.0  # Default if no previous point
+                            heading = 0.0  
                         now = latest_data["time"]
 
-                        # Reset values after use
                         latest_data["lat"] = None
                         latest_data["lon"] = None
                         latest_data["time"] = None
@@ -344,7 +337,7 @@ def read_serial_data():
                         previous_point.update({"lat": lat, "lon": lon, "time": now})
 
                         try:
-                            so2_co2 = latest_so2_co2 or 10.0  # fallback
+                            so2_co2 = latest_so2_co2 or 10.0  
                             sulphur = np.interp(so2_co2, so2_co2_ratio_points, sulphur_content_points)
                             sulphur = round(float(sulphur), 4)
                         except Exception as e:
@@ -417,7 +410,6 @@ def data():
     if not data:
         return jsonify({"status": "waiting"})
 
-    # Load vessel info from JSON file fresh each time
     try:
         with open("vessel_info.json", "r") as f:
             vessel_info = json.load(f)
@@ -434,7 +426,7 @@ def data():
     compliance = data["compliance"]
     in_eca = data["in_eca"] == "TRUE"
     heading = data["heading"]
-# Check for GPS timeout
+
     last_gps_time = None
     if data and "timestamp" in data and data["timestamp"]:
         try:
@@ -447,7 +439,6 @@ def data():
     if not data:
         return jsonify({"status": "waiting"})
 
-    # Check if position changed significantly
     moved = False
     if last_sent_lat is None or last_sent_lon is None:
         moved = True
@@ -459,15 +450,12 @@ def data():
     if not moved:
         return jsonify({"status": "nochange"})
 
-    # Update last sent coordinates
     last_sent_lat = lat
     last_sent_lon = lon
 
     vessel_path_history.append([lat, lon])
     if len(vessel_path_history) > 500:
         vessel_path_history.pop(0)
-
-    # map_html_b64 = generate_map(lat, lon, compliance, in_eca, heading)
 
     return jsonify({
         "status": "ok",
