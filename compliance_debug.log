@@ -1,0 +1,2329 @@
+2025-06-22 23:30:48,198 - appp - INFO - SO2/CO2 ratio points: [ 4.3 21.7 30. ]
+2025-06-22 23:30:48,199 - appp - INFO - Sulphur content points: [0.1 0.5 0.7]
+2025-06-22 23:30:48,200 - appp - INFO - Test interpolation: SO2/CO2=10.0 -> Sulphur=0.2310%
+2025-06-22 23:30:48,200 - appp - INFO - Inverse interpolation function created successfully
+2025-06-22 23:30:48,245 - appp - INFO - Scanning 3 serial ports for GPS...
+2025-06-22 23:30:51,743 - appp - ERROR - Error loading ECA geojson: C:\Users\pradeep\OneDrive - ELCOME INTERNATIONAL (L.L.C)\Desktop\EXETest1\eca_boundaries.geojson: No such file or directory
+2025-06-22 23:30:51,745 - appp - INFO - Starting GPS data reader thread...
+2025-06-22 23:30:51,755 - waitress - INFO - Serving on http://127.0.0.1:8000
+2025-06-22 23:30:51,759 - appp - DEBUG - GPRMC parsed: 51.724244, 3.639942
+2025-06-22 23:30:51,763 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:51,768 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:51,768 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:51,768 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:51,771 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:51,771 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:51,771 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:51,771 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:51,775 - appp - DEBUG - Generated signature for record: 8fc1e91f7cc1a24c...
+2025-06-22 23:30:51,778 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:51.759817+00:00
+2025-06-22 23:30:51,785 - appp - DEBUG - GPRMC parsed: 51.723828, 3.639942
+2025-06-22 23:30:51,785 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:51,786 - appp - DEBUG - Distance calculated: 46.16m between (51.724244,3.639942) and (51.723828,3.639942)
+2025-06-22 23:30:51,788 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:51,792 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:51,792 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:51,793 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:51,798 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:51,798 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:51,799 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:51,799 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:51,804 - appp - DEBUG - Generated signature for record: c2b5318b75324c9b...
+2025-06-22 23:30:51,808 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:51.785113+00:00
+2025-06-22 23:30:51,809 - appp - DEBUG - Distance calculated: 46.16m between (51.724244,3.639942) and (51.723828,3.639942)
+2025-06-22 23:30:51,820 - appp - DEBUG - GPRMC parsed: 51.723417, 3.639942
+2025-06-22 23:30:51,820 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:51,821 - appp - DEBUG - Distance calculated: 45.70m between (51.723828,3.639942) and (51.723417,3.639942)
+2025-06-22 23:30:51,825 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:51,830 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:51,831 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:51,831 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:51,835 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:51,835 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:51,835 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:51,836 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:51,839 - appp - DEBUG - Generated signature for record: ee40d3071c6f30d6...
+2025-06-22 23:30:51,843 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:51.820329+00:00
+2025-06-22 23:30:51,844 - appp - DEBUG - Distance calculated: 45.70m between (51.723828,3.639942) and (51.723417,3.639942)
+2025-06-22 23:30:52,485 - appp - DEBUG - GPRMC parsed: 51.723003, 3.639942
+2025-06-22 23:30:52,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:52,487 - appp - DEBUG - Distance calculated: 46.09m between (51.723417,3.639942) and (51.723003,3.639942)
+2025-06-22 23:30:52,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:52,493 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:52,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:52,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:52,499 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:52,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:52,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:52,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:52,505 - appp - DEBUG - Generated signature for record: d798ed16fef9df99...
+2025-06-22 23:30:52,509 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:52.485819+00:00
+2025-06-22 23:30:52,509 - appp - DEBUG - Distance calculated: 46.09m between (51.723417,3.639942) and (51.723003,3.639942)
+2025-06-22 23:30:53,484 - appp - DEBUG - GPRMC parsed: 51.722589, 3.639942
+2025-06-22 23:30:53,485 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:53,485 - appp - DEBUG - Distance calculated: 46.00m between (51.723003,3.639942) and (51.722589,3.639942)
+2025-06-22 23:30:53,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:53,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:53,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:53,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:53,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:53,494 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:53,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:53,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:53,497 - appp - DEBUG - Generated signature for record: e9bda357c7e08b3a...
+2025-06-22 23:30:53,499 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:53.484384+00:00
+2025-06-22 23:30:53,499 - appp - DEBUG - Distance calculated: 46.00m between (51.723003,3.639942) and (51.722589,3.639942)
+2025-06-22 23:30:54,487 - appp - DEBUG - GPRMC parsed: 51.722174, 3.639942
+2025-06-22 23:30:54,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:54,488 - appp - DEBUG - Distance calculated: 46.18m between (51.722589,3.639942) and (51.722174,3.639942)
+2025-06-22 23:30:54,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:54,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:54,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:54,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:54,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:54,498 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:54,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:54,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:54,502 - appp - DEBUG - Generated signature for record: eb36e2fad90e4de0...
+2025-06-22 23:30:54,504 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:54.486990+00:00
+2025-06-22 23:30:54,504 - appp - DEBUG - Distance calculated: 46.18m between (51.722589,3.639942) and (51.722174,3.639942)
+2025-06-22 23:30:55,483 - appp - DEBUG - GPRMC parsed: 51.721761, 3.639942
+2025-06-22 23:30:55,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:55,484 - appp - DEBUG - Distance calculated: 45.89m between (51.722174,3.639942) and (51.721761,3.639942)
+2025-06-22 23:30:55,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:55,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:55,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:55,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:55,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:55,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:55,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:55,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:55,496 - appp - DEBUG - Generated signature for record: 3d775f37eca042dc...
+2025-06-22 23:30:55,499 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:55.483313+00:00
+2025-06-22 23:30:55,499 - appp - DEBUG - Distance calculated: 45.89m between (51.722174,3.639942) and (51.721761,3.639942)
+2025-06-22 23:30:56,489 - appp - DEBUG - GPRMC parsed: 51.721345, 3.639942
+2025-06-22 23:30:56,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:56,490 - appp - DEBUG - Distance calculated: 46.26m between (51.721761,3.639942) and (51.721345,3.639942)
+2025-06-22 23:30:56,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:56,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:56,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:56,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:56,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:56,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:56,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:56,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:56,509 - appp - DEBUG - Generated signature for record: c53906e1e9e25365...
+2025-06-22 23:30:56,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:56.489072+00:00
+2025-06-22 23:30:56,512 - appp - DEBUG - Distance calculated: 46.26m between (51.721761,3.639942) and (51.721345,3.639942)
+2025-06-22 23:30:57,479 - appp - DEBUG - GPRMC parsed: 51.720942, 3.639942
+2025-06-22 23:30:57,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:57,479 - appp - DEBUG - Distance calculated: 44.89m between (51.721345,3.639942) and (51.720942,3.639942)
+2025-06-22 23:30:57,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:57,483 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:57,483 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:57,483 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:57,485 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:57,485 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:57,486 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:57,486 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:57,488 - appp - DEBUG - Generated signature for record: dbcc22fae5649240...
+2025-06-22 23:30:57,490 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:57.479287+00:00
+2025-06-22 23:30:57,491 - appp - DEBUG - Distance calculated: 44.89m between (51.721345,3.639942) and (51.720942,3.639942)
+2025-06-22 23:30:58,481 - appp - DEBUG - GPRMC parsed: 51.720527, 3.639942
+2025-06-22 23:30:58,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:58,482 - appp - DEBUG - Distance calculated: 46.07m between (51.720942,3.639942) and (51.720527,3.639942)
+2025-06-22 23:30:58,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:58,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:58,488 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:58,488 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:58,491 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:58,491 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:58,491 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:58,491 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:58,494 - appp - DEBUG - Generated signature for record: 4bbf716c027854ff...
+2025-06-22 23:30:58,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:58.481681+00:00
+2025-06-22 23:30:58,497 - appp - DEBUG - Distance calculated: 46.07m between (51.720942,3.639942) and (51.720527,3.639942)
+2025-06-22 23:30:59,485 - appp - DEBUG - GPRMC parsed: 51.720112, 3.639942
+2025-06-22 23:30:59,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:30:59,486 - appp - DEBUG - Distance calculated: 46.22m between (51.720527,3.639942) and (51.720112,3.639942)
+2025-06-22 23:30:59,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:30:59,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:30:59,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:30:59,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:30:59,499 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:30:59,500 - appp - INFO -   In ECA zone: False
+2025-06-22 23:30:59,500 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:30:59,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:30:59,505 - appp - DEBUG - Generated signature for record: cca3020ea2bbd362...
+2025-06-22 23:30:59,509 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:30:59.485594+00:00
+2025-06-22 23:30:59,509 - appp - DEBUG - Distance calculated: 46.22m between (51.720527,3.639942) and (51.720112,3.639942)
+2025-06-22 23:31:00,488 - appp - DEBUG - GPRMC parsed: 51.719697, 3.639942
+2025-06-22 23:31:00,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:00,489 - appp - DEBUG - Distance calculated: 46.13m between (51.720112,3.639942) and (51.719697,3.639942)
+2025-06-22 23:31:00,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:00,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:00,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:00,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:00,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:00,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:00,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:00,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:00,506 - appp - DEBUG - Generated signature for record: cf7f38e168d650df...
+2025-06-22 23:31:00,508 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:00.488610+00:00
+2025-06-22 23:31:00,509 - appp - DEBUG - Distance calculated: 46.13m between (51.720112,3.639942) and (51.719697,3.639942)
+2025-06-22 23:31:01,479 - appp - DEBUG - GPRMC parsed: 51.719285, 3.639942
+2025-06-22 23:31:01,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:01,480 - appp - DEBUG - Distance calculated: 45.76m between (51.719697,3.639942) and (51.719285,3.639942)
+2025-06-22 23:31:01,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:01,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:01,488 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:01,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:01,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:01,494 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:01,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:01,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:01,500 - appp - DEBUG - Generated signature for record: 2f87c5b1ecc8e2db...
+2025-06-22 23:31:01,504 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:01.479803+00:00
+2025-06-22 23:31:01,504 - appp - DEBUG - Distance calculated: 45.76m between (51.719697,3.639942) and (51.719285,3.639942)
+2025-06-22 23:31:02,482 - appp - DEBUG - GPRMC parsed: 51.718864, 3.639942
+2025-06-22 23:31:02,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:02,483 - appp - DEBUG - Distance calculated: 46.81m between (51.719285,3.639942) and (51.718864,3.639942)
+2025-06-22 23:31:02,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:02,486 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:02,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:02,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:02,489 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:02,490 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:02,490 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:02,490 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:02,493 - appp - DEBUG - Generated signature for record: b618f79e6b1097d9...
+2025-06-22 23:31:02,494 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:02.482692+00:00
+2025-06-22 23:31:02,495 - appp - DEBUG - Distance calculated: 46.81m between (51.719285,3.639942) and (51.718864,3.639942)
+2025-06-22 23:31:03,478 - appp - DEBUG - GPRMC parsed: 51.718459, 3.639942
+2025-06-22 23:31:03,478 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:03,479 - appp - DEBUG - Distance calculated: 45.07m between (51.718864,3.639942) and (51.718459,3.639942)
+2025-06-22 23:31:03,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:03,486 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:03,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:03,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:03,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:03,492 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:03,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:03,492 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:03,495 - appp - DEBUG - Generated signature for record: a48bd4eb71861f55...
+2025-06-22 23:31:03,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:03.478224+00:00
+2025-06-22 23:31:03,498 - appp - DEBUG - Distance calculated: 45.07m between (51.718864,3.639942) and (51.718459,3.639942)
+2025-06-22 23:31:04,488 - appp - DEBUG - GPRMC parsed: 51.718034, 3.639942
+2025-06-22 23:31:04,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:04,489 - appp - DEBUG - Distance calculated: 47.20m between (51.718459,3.639942) and (51.718034,3.639942)
+2025-06-22 23:31:04,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:04,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:04,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:04,497 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:04,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:04,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:04,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:04,503 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:04,508 - appp - DEBUG - Generated signature for record: 9dafe58f1cca96be...
+2025-06-22 23:31:04,511 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:04.488187+00:00
+2025-06-22 23:31:04,512 - appp - DEBUG - Distance calculated: 47.20m between (51.718459,3.639942) and (51.718034,3.639942)
+2025-06-22 23:31:05,490 - appp - DEBUG - GPRMC parsed: 51.717619, 3.639942
+2025-06-22 23:31:05,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:05,491 - appp - DEBUG - Distance calculated: 46.15m between (51.718034,3.639942) and (51.717619,3.639942)
+2025-06-22 23:31:05,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:05,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:05,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:05,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:05,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:05,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:05,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:05,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:05,511 - appp - DEBUG - Generated signature for record: c437e9cba5dd3de6...
+2025-06-22 23:31:05,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:05.490340+00:00
+2025-06-22 23:31:05,515 - appp - DEBUG - Distance calculated: 46.15m between (51.718034,3.639942) and (51.717619,3.639942)
+2025-06-22 23:31:06,488 - appp - DEBUG - GPRMC parsed: 51.717206, 3.639942
+2025-06-22 23:31:06,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:06,489 - appp - DEBUG - Distance calculated: 45.92m between (51.717619,3.639942) and (51.717206,3.639942)
+2025-06-22 23:31:06,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:06,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:06,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:06,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:06,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:06,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:06,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:06,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:06,510 - appp - DEBUG - Generated signature for record: 1580391381fd20df...
+2025-06-22 23:31:06,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:06.488640+00:00
+2025-06-22 23:31:06,515 - appp - DEBUG - Distance calculated: 45.92m between (51.717619,3.639942) and (51.717206,3.639942)
+2025-06-22 23:31:07,479 - appp - DEBUG - GPRMC parsed: 51.716796, 3.639942
+2025-06-22 23:31:07,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:07,479 - appp - DEBUG - Distance calculated: 45.61m between (51.717206,3.639942) and (51.716796,3.639942)
+2025-06-22 23:31:07,480 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:07,483 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:07,483 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:07,483 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:07,485 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:07,486 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:07,486 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:07,486 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:07,488 - appp - DEBUG - Generated signature for record: fb23ce797b7b856a...
+2025-06-22 23:31:07,490 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:07.479027+00:00
+2025-06-22 23:31:07,490 - appp - DEBUG - Distance calculated: 45.61m between (51.717206,3.639942) and (51.716796,3.639942)
+2025-06-22 23:31:08,482 - appp - DEBUG - GPRMC parsed: 51.716381, 3.639942
+2025-06-22 23:31:08,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:08,483 - appp - DEBUG - Distance calculated: 46.18m between (51.716796,3.639942) and (51.716381,3.639942)
+2025-06-22 23:31:08,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:08,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:08,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:08,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:08,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:08,498 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:08,498 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:08,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:08,504 - appp - DEBUG - Generated signature for record: 271fe53fa6c5fbdd...
+2025-06-22 23:31:08,508 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:08.482321+00:00
+2025-06-22 23:31:08,508 - appp - DEBUG - Distance calculated: 46.18m between (51.716796,3.639942) and (51.716381,3.639942)
+2025-06-22 23:31:09,490 - appp - DEBUG - GPRMC parsed: 51.715964, 3.639942
+2025-06-22 23:31:09,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:09,491 - appp - DEBUG - Distance calculated: 46.37m between (51.716381,3.639942) and (51.715964,3.639942)
+2025-06-22 23:31:09,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:09,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:09,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:09,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:09,503 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:09,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:09,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:09,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:09,508 - appp - DEBUG - Generated signature for record: aed319310c8d4aa2...
+2025-06-22 23:31:09,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:09.490554+00:00
+2025-06-22 23:31:09,512 - appp - DEBUG - Distance calculated: 46.37m between (51.716381,3.639942) and (51.715964,3.639942)
+2025-06-22 23:31:10,494 - appp - DEBUG - GPRMC parsed: 51.715549, 3.639942
+2025-06-22 23:31:10,494 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:10,495 - appp - DEBUG - Distance calculated: 46.09m between (51.715964,3.639942) and (51.715549,3.639942)
+2025-06-22 23:31:10,497 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:10,503 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:10,503 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:10,504 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:10,509 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:10,510 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:10,510 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:10,510 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:10,516 - appp - DEBUG - Generated signature for record: a6d9d4100a5d8314...
+2025-06-22 23:31:10,519 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:10.494185+00:00
+2025-06-22 23:31:10,520 - appp - DEBUG - Distance calculated: 46.09m between (51.715964,3.639942) and (51.715549,3.639942)
+2025-06-22 23:31:11,483 - appp - DEBUG - GPRMC parsed: 51.715146, 3.639942
+2025-06-22 23:31:11,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:11,484 - appp - DEBUG - Distance calculated: 44.85m between (51.715549,3.639942) and (51.715146,3.639942)
+2025-06-22 23:31:11,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:11,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:11,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:11,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:11,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:11,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:11,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:11,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:11,501 - appp - DEBUG - Generated signature for record: 855f0c4b25be2f0c...
+2025-06-22 23:31:11,504 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:11.483495+00:00
+2025-06-22 23:31:11,505 - appp - DEBUG - Distance calculated: 44.85m between (51.715549,3.639942) and (51.715146,3.639942)
+2025-06-22 23:31:12,488 - appp - DEBUG - GPRMC parsed: 51.714731, 3.639942
+2025-06-22 23:31:12,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:12,489 - appp - DEBUG - Distance calculated: 46.16m between (51.715146,3.639942) and (51.714731,3.639942)
+2025-06-22 23:31:12,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:12,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:12,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:12,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:12,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:12,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:12,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:12,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:12,506 - appp - DEBUG - Generated signature for record: 1fa7ebcaa995981a...
+2025-06-22 23:31:12,510 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:12.488543+00:00
+2025-06-22 23:31:12,511 - appp - DEBUG - Distance calculated: 46.16m between (51.715146,3.639942) and (51.714731,3.639942)
+2025-06-22 23:31:13,478 - appp - DEBUG - GPRMC parsed: 51.714315, 3.639942
+2025-06-22 23:31:13,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:13,479 - appp - DEBUG - Distance calculated: 46.24m between (51.714731,3.639942) and (51.714315,3.639942)
+2025-06-22 23:31:13,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:13,485 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:13,485 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:13,485 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:13,490 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:13,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:13,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:13,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:13,498 - appp - DEBUG - Generated signature for record: 339c508b8eb79c00...
+2025-06-22 23:31:13,502 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:13.478393+00:00
+2025-06-22 23:31:13,502 - appp - DEBUG - Distance calculated: 46.24m between (51.714731,3.639942) and (51.714315,3.639942)
+2025-06-22 23:31:14,485 - appp - DEBUG - GPRMC parsed: 51.713905, 3.639942
+2025-06-22 23:31:14,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:14,486 - appp - DEBUG - Distance calculated: 45.61m between (51.714315,3.639942) and (51.713905,3.639942)
+2025-06-22 23:31:14,488 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:14,492 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:14,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:14,493 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:14,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:14,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:14,498 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:14,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:14,501 - appp - DEBUG - Generated signature for record: 4a8996a7a0ba2416...
+2025-06-22 23:31:14,503 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:14.485493+00:00
+2025-06-22 23:31:14,504 - appp - DEBUG - Distance calculated: 45.61m between (51.714315,3.639942) and (51.713905,3.639942)
+2025-06-22 23:31:15,479 - appp - DEBUG - GPRMC parsed: 51.713487, 3.639942
+2025-06-22 23:31:15,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:15,481 - appp - DEBUG - Distance calculated: 46.44m between (51.713905,3.639942) and (51.713487,3.639942)
+2025-06-22 23:31:15,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:15,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:15,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:15,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:15,494 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:15,494 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:15,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:15,495 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:15,500 - appp - DEBUG - Generated signature for record: 9b819d95992bd1f7...
+2025-06-22 23:31:15,503 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:15.479785+00:00
+2025-06-22 23:31:15,504 - appp - DEBUG - Distance calculated: 46.44m between (51.713905,3.639942) and (51.713487,3.639942)
+2025-06-22 23:31:16,486 - appp - DEBUG - GPRMC parsed: 51.713076, 3.639942
+2025-06-22 23:31:16,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:16,487 - appp - DEBUG - Distance calculated: 45.66m between (51.713487,3.639942) and (51.713076,3.639942)
+2025-06-22 23:31:16,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:16,493 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:16,493 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:16,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:16,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:16,498 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:16,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:16,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:16,503 - appp - DEBUG - Generated signature for record: 0f0bbf33097dc84b...
+2025-06-22 23:31:16,507 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:16.486716+00:00
+2025-06-22 23:31:16,508 - appp - DEBUG - Distance calculated: 45.66m between (51.713487,3.639942) and (51.713076,3.639942)
+2025-06-22 23:31:17,493 - appp - DEBUG - GPRMC parsed: 51.712660, 3.639942
+2025-06-22 23:31:17,493 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:17,494 - appp - DEBUG - Distance calculated: 46.35m between (51.713076,3.639942) and (51.712660,3.639942)
+2025-06-22 23:31:17,496 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:17,501 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:17,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:17,502 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:17,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:17,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:17,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:17,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:17,512 - appp - DEBUG - Generated signature for record: 2ed8604ba1591ef2...
+2025-06-22 23:31:17,516 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:17.493090+00:00
+2025-06-22 23:31:17,516 - appp - DEBUG - Distance calculated: 46.35m between (51.713076,3.639942) and (51.712660,3.639942)
+2025-06-22 23:31:18,484 - appp - DEBUG - GPRMC parsed: 51.712249, 3.639942
+2025-06-22 23:31:18,485 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:18,485 - appp - DEBUG - Distance calculated: 45.70m between (51.712660,3.639942) and (51.712249,3.639942)
+2025-06-22 23:31:18,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:18,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:18,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:18,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:18,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:18,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:18,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:18,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:18,496 - appp - DEBUG - Generated signature for record: eb147fc6e280eff5...
+2025-06-22 23:31:18,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:18.484665+00:00
+2025-06-22 23:31:18,498 - appp - DEBUG - Distance calculated: 45.70m between (51.712660,3.639942) and (51.712249,3.639942)
+2025-06-22 23:31:19,491 - appp - DEBUG - GPRMC parsed: 51.711831, 3.639942
+2025-06-22 23:31:19,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:19,492 - appp - DEBUG - Distance calculated: 46.42m between (51.712249,3.639942) and (51.711831,3.639942)
+2025-06-22 23:31:19,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:19,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:19,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:19,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:19,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:19,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:19,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:19,503 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:19,508 - appp - DEBUG - Generated signature for record: c2701ac11c13ae3b...
+2025-06-22 23:31:19,519 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:19.491464+00:00
+2025-06-22 23:31:19,519 - appp - DEBUG - Distance calculated: 46.42m between (51.712249,3.639942) and (51.711831,3.639942)
+2025-06-22 23:31:20,484 - appp - DEBUG - GPRMC parsed: 51.711422, 3.639942
+2025-06-22 23:31:20,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:20,485 - appp - DEBUG - Distance calculated: 45.53m between (51.711831,3.639942) and (51.711422,3.639942)
+2025-06-22 23:31:20,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:20,492 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:20,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:20,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:20,499 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:20,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:20,500 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:20,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:20,505 - appp - DEBUG - Generated signature for record: c737ff89326ad356...
+2025-06-22 23:31:20,534 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:20.484037+00:00
+2025-06-22 23:31:20,534 - appp - DEBUG - Distance calculated: 45.53m between (51.711831,3.639942) and (51.711422,3.639942)
+2025-06-22 23:31:21,486 - appp - DEBUG - GPRMC parsed: 51.711007, 3.639942
+2025-06-22 23:31:21,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:21,487 - appp - DEBUG - Distance calculated: 46.09m between (51.711422,3.639942) and (51.711007,3.639942)
+2025-06-22 23:31:21,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:21,493 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:21,493 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:21,493 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:21,496 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:21,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:21,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:21,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:21,500 - appp - DEBUG - Generated signature for record: 1cade0cf1c72cc0a...
+2025-06-22 23:31:21,522 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:21.486597+00:00
+2025-06-22 23:31:21,523 - appp - DEBUG - Distance calculated: 46.09m between (51.711422,3.639942) and (51.711007,3.639942)
+2025-06-22 23:31:22,490 - appp - DEBUG - GPRMC parsed: 51.710591, 3.639942
+2025-06-22 23:31:22,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:22,491 - appp - DEBUG - Distance calculated: 46.24m between (51.711007,3.639942) and (51.710591,3.639942)
+2025-06-22 23:31:22,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:22,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:22,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:22,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:22,503 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:22,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:22,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:22,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:22,508 - appp - DEBUG - Generated signature for record: 6fa7e3e38f9e25f5...
+2025-06-22 23:31:22,520 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:22.490908+00:00
+2025-06-22 23:31:22,521 - appp - DEBUG - Distance calculated: 46.24m between (51.711007,3.639942) and (51.710591,3.639942)
+2025-06-22 23:31:23,483 - appp - DEBUG - GPRMC parsed: 51.710175, 3.639942
+2025-06-22 23:31:23,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:23,484 - appp - DEBUG - Distance calculated: 46.31m between (51.710591,3.639942) and (51.710175,3.639942)
+2025-06-22 23:31:23,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:23,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:23,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:23,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:23,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:23,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:23,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:23,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:23,500 - appp - DEBUG - Generated signature for record: 47b6c4bd581d047a...
+2025-06-22 23:31:23,537 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:23.483258+00:00
+2025-06-22 23:31:23,538 - appp - DEBUG - Distance calculated: 46.31m between (51.710591,3.639942) and (51.710175,3.639942)
+2025-06-22 23:31:24,480 - appp - DEBUG - GPRMC parsed: 51.709763, 3.639942
+2025-06-22 23:31:24,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:24,481 - appp - DEBUG - Distance calculated: 45.81m between (51.710175,3.639942) and (51.709763,3.639942)
+2025-06-22 23:31:24,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:24,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:24,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:24,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:24,494 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:24,494 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:24,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:24,495 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:24,499 - appp - DEBUG - Generated signature for record: 777bfc2f74059213...
+2025-06-22 23:31:24,550 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:24.480390+00:00
+2025-06-22 23:31:24,551 - appp - DEBUG - Distance calculated: 45.81m between (51.710175,3.639942) and (51.709763,3.639942)
+2025-06-22 23:31:25,482 - appp - DEBUG - GPRMC parsed: 51.709347, 3.639942
+2025-06-22 23:31:25,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:25,482 - appp - DEBUG - Distance calculated: 46.24m between (51.709763,3.639942) and (51.709347,3.639942)
+2025-06-22 23:31:25,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:25,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:25,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:25,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:25,490 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:25,490 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:25,490 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:25,491 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:25,494 - appp - DEBUG - Generated signature for record: 39b4d1b1051534dc...
+2025-06-22 23:31:25,543 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:25.482221+00:00
+2025-06-22 23:31:25,544 - appp - DEBUG - Distance calculated: 46.24m between (51.709763,3.639942) and (51.709347,3.639942)
+2025-06-22 23:31:26,489 - appp - DEBUG - GPRMC parsed: 51.708931, 3.639942
+2025-06-22 23:31:26,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:26,490 - appp - DEBUG - Distance calculated: 46.22m between (51.709347,3.639942) and (51.708931,3.639942)
+2025-06-22 23:31:26,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:26,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:26,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:26,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:26,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:26,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:26,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:26,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:26,511 - appp - DEBUG - Generated signature for record: 1ce3416abd8f6314...
+2025-06-22 23:31:26,569 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:26.489136+00:00
+2025-06-22 23:31:26,570 - appp - DEBUG - Distance calculated: 46.22m between (51.709347,3.639942) and (51.708931,3.639942)
+2025-06-22 23:31:27,480 - appp - DEBUG - GPRMC parsed: 51.708520, 3.639942
+2025-06-22 23:31:27,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:27,480 - appp - DEBUG - Distance calculated: 45.72m between (51.708931,3.639942) and (51.708520,3.639942)
+2025-06-22 23:31:27,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:27,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:27,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:27,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:27,491 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:27,491 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:27,491 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:27,491 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:27,494 - appp - DEBUG - Generated signature for record: e134627d5a9545de...
+2025-06-22 23:31:27,496 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:27.480044+00:00
+2025-06-22 23:31:27,497 - appp - DEBUG - Distance calculated: 45.72m between (51.708931,3.639942) and (51.708520,3.639942)
+2025-06-22 23:31:28,491 - appp - DEBUG - GPRMC parsed: 51.708102, 3.639942
+2025-06-22 23:31:28,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:28,492 - appp - DEBUG - Distance calculated: 46.48m between (51.708520,3.639942) and (51.708102,3.639942)
+2025-06-22 23:31:28,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:28,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:28,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:28,501 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:28,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:28,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:28,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:28,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:28,512 - appp - DEBUG - Generated signature for record: 3ad96b6c89616418...
+2025-06-22 23:31:28,516 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:28.491420+00:00
+2025-06-22 23:31:28,516 - appp - DEBUG - Distance calculated: 46.48m between (51.708520,3.639942) and (51.708102,3.639942)
+2025-06-22 23:31:29,486 - appp - DEBUG - GPRMC parsed: 51.707697, 3.639942
+2025-06-22 23:31:29,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:29,487 - appp - DEBUG - Distance calculated: 45.03m between (51.708102,3.639942) and (51.707697,3.639942)
+2025-06-22 23:31:29,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:29,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:29,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:29,497 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:29,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:29,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:29,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:29,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:29,509 - appp - DEBUG - Generated signature for record: 9e947c8e8e3c4ccb...
+2025-06-22 23:31:29,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:29.486382+00:00
+2025-06-22 23:31:29,512 - appp - DEBUG - Distance calculated: 45.03m between (51.708102,3.639942) and (51.707697,3.639942)
+2025-06-22 23:31:30,479 - appp - DEBUG - GPRMC parsed: 51.707281, 3.639942
+2025-06-22 23:31:30,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:30,480 - appp - DEBUG - Distance calculated: 46.33m between (51.707697,3.639942) and (51.707281,3.639942)
+2025-06-22 23:31:30,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:30,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:30,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:30,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:30,494 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:30,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:30,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:30,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:30,500 - appp - DEBUG - Generated signature for record: e0e10cc79db33bab...
+2025-06-22 23:31:30,503 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:30.479690+00:00
+2025-06-22 23:31:30,503 - appp - DEBUG - Distance calculated: 46.33m between (51.707697,3.639942) and (51.707281,3.639942)
+2025-06-22 23:31:31,489 - appp - DEBUG - GPRMC parsed: 51.706861, 3.639942
+2025-06-22 23:31:31,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:31,490 - appp - DEBUG - Distance calculated: 46.61m between (51.707281,3.639942) and (51.706861,3.639942)
+2025-06-22 23:31:31,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:31,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:31,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:31,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:31,500 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:31,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:31,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:31,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:31,508 - appp - DEBUG - Generated signature for record: 44ded7aaeb275493...
+2025-06-22 23:31:31,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:31.489342+00:00
+2025-06-22 23:31:31,512 - appp - DEBUG - Distance calculated: 46.61m between (51.707281,3.639942) and (51.706861,3.639942)
+2025-06-22 23:31:32,477 - appp - DEBUG - GPRMC parsed: 51.706458, 3.639942
+2025-06-22 23:31:32,478 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:32,478 - appp - DEBUG - Distance calculated: 44.85m between (51.706861,3.639942) and (51.706458,3.639942)
+2025-06-22 23:31:32,480 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:32,483 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:32,483 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:32,484 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:32,487 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:32,488 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:32,488 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:32,488 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:32,492 - appp - DEBUG - Generated signature for record: d16bf36e60e95952...
+2025-06-22 23:31:32,494 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:32.477911+00:00
+2025-06-22 23:31:32,495 - appp - DEBUG - Distance calculated: 44.85m between (51.706861,3.639942) and (51.706458,3.639942)
+2025-06-22 23:31:33,481 - appp - DEBUG - GPRMC parsed: 51.706037, 3.639942
+2025-06-22 23:31:33,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:33,481 - appp - DEBUG - Distance calculated: 46.85m between (51.706458,3.639942) and (51.706037,3.639942)
+2025-06-22 23:31:33,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:33,485 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:33,485 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:33,485 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:33,488 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:33,488 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:33,488 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:33,489 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:33,492 - appp - DEBUG - Generated signature for record: 72178e8cf3419c12...
+2025-06-22 23:31:33,494 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:33.481180+00:00
+2025-06-22 23:31:33,495 - appp - DEBUG - Distance calculated: 46.85m between (51.706458,3.639942) and (51.706037,3.639942)
+2025-06-22 23:31:34,491 - appp - DEBUG - GPRMC parsed: 51.705619, 3.639942
+2025-06-22 23:31:34,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:34,492 - appp - DEBUG - Distance calculated: 46.44m between (51.706037,3.639942) and (51.705619,3.639942)
+2025-06-22 23:31:34,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:34,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:34,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:34,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:34,508 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:34,509 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:34,509 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:34,509 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:34,514 - appp - DEBUG - Generated signature for record: 59e5d96e0242b836...
+2025-06-22 23:31:34,519 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:34.491213+00:00
+2025-06-22 23:31:34,519 - appp - DEBUG - Distance calculated: 46.44m between (51.706037,3.639942) and (51.705619,3.639942)
+2025-06-22 23:31:35,491 - appp - DEBUG - GPRMC parsed: 51.705204, 3.639942
+2025-06-22 23:31:35,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:35,492 - appp - DEBUG - Distance calculated: 46.13m between (51.705619,3.639942) and (51.705204,3.639942)
+2025-06-22 23:31:35,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:35,501 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:35,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:35,501 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:35,510 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:35,511 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:35,511 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:35,511 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:35,517 - appp - DEBUG - Generated signature for record: d048b17d435a9698...
+2025-06-22 23:31:35,582 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:35.491251+00:00
+2025-06-22 23:31:35,583 - appp - DEBUG - Distance calculated: 46.13m between (51.705619,3.639942) and (51.705204,3.639942)
+2025-06-22 23:31:36,479 - appp - DEBUG - GPRMC parsed: 51.704795, 3.639942
+2025-06-22 23:31:36,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:36,480 - appp - DEBUG - Distance calculated: 45.50m between (51.705204,3.639942) and (51.704795,3.639942)
+2025-06-22 23:31:36,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:36,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:36,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:36,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:36,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:36,492 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:36,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:36,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:36,495 - appp - DEBUG - Generated signature for record: 5d62526e5c901c01...
+2025-06-22 23:31:36,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:36.479185+00:00
+2025-06-22 23:31:36,497 - appp - DEBUG - Distance calculated: 45.50m between (51.705204,3.639942) and (51.704795,3.639942)
+2025-06-22 23:31:37,487 - appp - DEBUG - GPRMC parsed: 51.704378, 3.639942
+2025-06-22 23:31:37,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:37,488 - appp - DEBUG - Distance calculated: 46.39m between (51.704795,3.639942) and (51.704378,3.639942)
+2025-06-22 23:31:37,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:37,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:37,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:37,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:37,499 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:37,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:37,500 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:37,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:37,503 - appp - DEBUG - Generated signature for record: 3800cf9d8b38e03f...
+2025-06-22 23:31:37,505 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:37.487123+00:00
+2025-06-22 23:31:37,506 - appp - DEBUG - Distance calculated: 46.39m between (51.704795,3.639942) and (51.704378,3.639942)
+2025-06-22 23:31:38,479 - appp - DEBUG - GPRMC parsed: 51.703974, 3.639942
+2025-06-22 23:31:38,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:38,480 - appp - DEBUG - Distance calculated: 44.92m between (51.704378,3.639942) and (51.703974,3.639942)
+2025-06-22 23:31:38,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:38,486 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:38,486 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:38,486 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:38,490 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:38,490 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:38,491 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:38,491 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:38,496 - appp - DEBUG - Generated signature for record: 5b0fd6551f0bbc0b...
+2025-06-22 23:31:38,499 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:38.479225+00:00
+2025-06-22 23:31:38,499 - appp - DEBUG - Distance calculated: 44.92m between (51.704378,3.639942) and (51.703974,3.639942)
+2025-06-22 23:31:39,483 - appp - DEBUG - GPRMC parsed: 51.703551, 3.639942
+2025-06-22 23:31:39,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:39,484 - appp - DEBUG - Distance calculated: 46.98m between (51.703974,3.639942) and (51.703551,3.639942)
+2025-06-22 23:31:39,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:39,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:39,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:39,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:39,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:39,492 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:39,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:39,492 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:39,494 - appp - DEBUG - Generated signature for record: 641803a812a5ebb3...
+2025-06-22 23:31:39,495 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:39.483409+00:00
+2025-06-22 23:31:39,496 - appp - DEBUG - Distance calculated: 46.98m between (51.703974,3.639942) and (51.703551,3.639942)
+2025-06-22 23:31:40,495 - appp - DEBUG - GPRMC parsed: 51.703145, 3.639942
+2025-06-22 23:31:40,496 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:40,496 - appp - DEBUG - Distance calculated: 45.15m between (51.703551,3.639942) and (51.703145,3.639942)
+2025-06-22 23:31:40,499 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:40,504 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:40,505 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:40,505 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:40,510 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:40,510 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:40,511 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:40,511 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:40,516 - appp - DEBUG - Generated signature for record: d355ce52555f54b1...
+2025-06-22 23:31:40,518 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:40.495339+00:00
+2025-06-22 23:31:40,519 - appp - DEBUG - Distance calculated: 45.15m between (51.703551,3.639942) and (51.703145,3.639942)
+2025-06-22 23:31:41,480 - appp - DEBUG - GPRMC parsed: 51.702730, 3.639942
+2025-06-22 23:31:41,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:41,481 - appp - DEBUG - Distance calculated: 46.15m between (51.703145,3.639942) and (51.702730,3.639942)
+2025-06-22 23:31:41,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:41,486 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:41,486 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:41,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:41,491 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:41,492 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:41,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:41,492 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:41,495 - appp - DEBUG - Generated signature for record: 064ebccc2a17c019...
+2025-06-22 23:31:41,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:41.480836+00:00
+2025-06-22 23:31:41,498 - appp - DEBUG - Distance calculated: 46.15m between (51.703145,3.639942) and (51.702730,3.639942)
+2025-06-22 23:31:42,489 - appp - DEBUG - GPRMC parsed: 51.702314, 3.639942
+2025-06-22 23:31:42,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:42,490 - appp - DEBUG - Distance calculated: 46.31m between (51.702730,3.639942) and (51.702314,3.639942)
+2025-06-22 23:31:42,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:42,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:42,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:42,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:42,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:42,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:42,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:42,501 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:42,505 - appp - DEBUG - Generated signature for record: 12198dea7da0dd9a...
+2025-06-22 23:31:42,508 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:42.489475+00:00
+2025-06-22 23:31:42,509 - appp - DEBUG - Distance calculated: 46.31m between (51.702730,3.639942) and (51.702314,3.639942)
+2025-06-22 23:31:43,481 - appp - DEBUG - GPRMC parsed: 51.701896, 3.639942
+2025-06-22 23:31:43,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:43,482 - appp - DEBUG - Distance calculated: 46.41m between (51.702314,3.639942) and (51.701896,3.639942)
+2025-06-22 23:31:43,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:43,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:43,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:43,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:43,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:43,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:43,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:43,495 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:43,501 - appp - DEBUG - Generated signature for record: 685f5e991d4129f7...
+2025-06-22 23:31:43,503 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:43.481621+00:00
+2025-06-22 23:31:43,504 - appp - DEBUG - Distance calculated: 46.41m between (51.702314,3.639942) and (51.701896,3.639942)
+2025-06-22 23:31:44,488 - appp - DEBUG - GPRMC parsed: 51.701479, 3.639942
+2025-06-22 23:31:44,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:44,489 - appp - DEBUG - Distance calculated: 46.39m between (51.701896,3.639942) and (51.701479,3.639942)
+2025-06-22 23:31:44,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:44,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:44,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:44,497 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:44,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:44,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:44,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:44,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:44,510 - appp - DEBUG - Generated signature for record: a76d826e6366deb2...
+2025-06-22 23:31:44,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:44.488901+00:00
+2025-06-22 23:31:44,514 - appp - DEBUG - Distance calculated: 46.39m between (51.701896,3.639942) and (51.701479,3.639942)
+2025-06-22 23:31:45,483 - appp - DEBUG - GPRMC parsed: 51.701068, 3.639942
+2025-06-22 23:31:45,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:45,485 - appp - DEBUG - Distance calculated: 45.78m between (51.701479,3.639942) and (51.701068,3.639942)
+2025-06-22 23:31:45,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:45,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:45,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:45,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:45,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:45,498 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:45,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:45,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:45,504 - appp - DEBUG - Generated signature for record: ad4491b883b276a5...
+2025-06-22 23:31:45,507 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:45.483249+00:00
+2025-06-22 23:31:45,507 - appp - DEBUG - Distance calculated: 45.78m between (51.701479,3.639942) and (51.701068,3.639942)
+2025-06-22 23:31:46,490 - appp - DEBUG - GPRMC parsed: 51.700651, 3.639942
+2025-06-22 23:31:46,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:46,491 - appp - DEBUG - Distance calculated: 46.29m between (51.701068,3.639942) and (51.700651,3.639942)
+2025-06-22 23:31:46,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:46,503 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:46,504 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:46,504 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:46,517 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:46,519 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:46,519 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:46,519 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:46,524 - appp - DEBUG - Generated signature for record: 75e8a6928266dc78...
+2025-06-22 23:31:46,526 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:46.490678+00:00
+2025-06-22 23:31:46,527 - appp - DEBUG - Distance calculated: 46.29m between (51.701068,3.639942) and (51.700651,3.639942)
+2025-06-22 23:31:47,488 - appp - DEBUG - GPRMC parsed: 51.700238, 3.639942
+2025-06-22 23:31:47,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:47,489 - appp - DEBUG - Distance calculated: 45.98m between (51.700651,3.639942) and (51.700238,3.639942)
+2025-06-22 23:31:47,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:47,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:47,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:47,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:47,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:47,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:47,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:47,503 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:47,508 - appp - DEBUG - Generated signature for record: d78d57dfaa17663a...
+2025-06-22 23:31:47,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:47.487954+00:00
+2025-06-22 23:31:47,513 - appp - DEBUG - Distance calculated: 45.98m between (51.700651,3.639942) and (51.700238,3.639942)
+2025-06-22 23:31:48,479 - appp - DEBUG - GPRMC parsed: 51.699827, 3.639942
+2025-06-22 23:31:48,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:48,481 - appp - DEBUG - Distance calculated: 45.68m between (51.700238,3.639942) and (51.699827,3.639942)
+2025-06-22 23:31:48,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:48,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:48,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:48,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:48,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:48,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:48,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:48,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:48,502 - appp - DEBUG - Generated signature for record: 967655adeb069894...
+2025-06-22 23:31:48,504 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:48.479932+00:00
+2025-06-22 23:31:48,506 - appp - DEBUG - Distance calculated: 45.68m between (51.700238,3.639942) and (51.699827,3.639942)
+2025-06-22 23:31:49,480 - appp - DEBUG - GPRMC parsed: 51.699414, 3.639942
+2025-06-22 23:31:49,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:49,481 - appp - DEBUG - Distance calculated: 45.96m between (51.699827,3.639942) and (51.699414,3.639942)
+2025-06-22 23:31:49,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:49,485 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:49,486 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:49,486 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:49,491 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:49,491 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:49,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:49,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:49,499 - appp - DEBUG - Generated signature for record: 1a241cec48418b35...
+2025-06-22 23:31:49,502 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:49.480246+00:00
+2025-06-22 23:31:49,503 - appp - DEBUG - Distance calculated: 45.96m between (51.699827,3.639942) and (51.699414,3.639942)
+2025-06-22 23:31:50,488 - appp - DEBUG - GPRMC parsed: 51.698996, 3.639942
+2025-06-22 23:31:50,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:50,489 - appp - DEBUG - Distance calculated: 46.39m between (51.699414,3.639942) and (51.698996,3.639942)
+2025-06-22 23:31:50,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:50,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:50,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:50,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:50,503 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:50,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:50,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:50,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:50,509 - appp - DEBUG - Generated signature for record: 6b6f997b42037106...
+2025-06-22 23:31:50,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:50.488095+00:00
+2025-06-22 23:31:50,514 - appp - DEBUG - Distance calculated: 46.39m between (51.699414,3.639942) and (51.698996,3.639942)
+2025-06-22 23:31:51,482 - appp - DEBUG - GPRMC parsed: 51.698585, 3.639942
+2025-06-22 23:31:51,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:51,482 - appp - DEBUG - Distance calculated: 45.72m between (51.698996,3.639942) and (51.698585,3.639942)
+2025-06-22 23:31:51,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:51,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:51,488 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:51,488 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:51,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:51,492 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:51,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:51,492 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:51,496 - appp - DEBUG - Generated signature for record: fb345223dd5ba955...
+2025-06-22 23:31:51,499 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:51.482005+00:00
+2025-06-22 23:31:51,500 - appp - DEBUG - Distance calculated: 45.72m between (51.698996,3.639942) and (51.698585,3.639942)
+2025-06-22 23:31:52,481 - appp - DEBUG - GPRMC parsed: 51.698172, 3.639942
+2025-06-22 23:31:52,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:52,482 - appp - DEBUG - Distance calculated: 45.94m between (51.698585,3.639942) and (51.698172,3.639942)
+2025-06-22 23:31:52,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:52,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:52,488 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:52,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:52,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:52,494 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:52,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:52,495 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:52,499 - appp - DEBUG - Generated signature for record: 11804918c9a05a1a...
+2025-06-22 23:31:52,501 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:52.481532+00:00
+2025-06-22 23:31:52,502 - appp - DEBUG - Distance calculated: 45.94m between (51.698585,3.639942) and (51.698172,3.639942)
+2025-06-22 23:31:53,481 - appp - DEBUG - GPRMC parsed: 51.697765, 3.639942
+2025-06-22 23:31:53,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:53,483 - appp - DEBUG - Distance calculated: 45.29m between (51.698172,3.639942) and (51.697765,3.639942)
+2025-06-22 23:31:53,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:53,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:53,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:53,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:53,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:53,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:53,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:53,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:53,502 - appp - DEBUG - Generated signature for record: 1f960e3c2d275605...
+2025-06-22 23:31:53,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:53.481828+00:00
+2025-06-22 23:31:53,506 - appp - DEBUG - Distance calculated: 45.29m between (51.698172,3.639942) and (51.697765,3.639942)
+2025-06-22 23:31:54,490 - appp - DEBUG - GPRMC parsed: 51.697353, 3.639942
+2025-06-22 23:31:54,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:54,492 - appp - DEBUG - Distance calculated: 45.79m between (51.697765,3.639942) and (51.697353,3.639942)
+2025-06-22 23:31:54,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:54,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:54,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:54,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:54,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:54,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:54,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:54,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:54,512 - appp - DEBUG - Generated signature for record: 4649d4a91475403f...
+2025-06-22 23:31:54,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:54.490811+00:00
+2025-06-22 23:31:54,515 - appp - DEBUG - Distance calculated: 45.79m between (51.697765,3.639942) and (51.697353,3.639942)
+2025-06-22 23:31:55,490 - appp - DEBUG - GPRMC parsed: 51.696928, 3.639942
+2025-06-22 23:31:55,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:55,491 - appp - DEBUG - Distance calculated: 47.24m between (51.697353,3.639942) and (51.696928,3.639942)
+2025-06-22 23:31:55,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:55,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:55,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:55,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:55,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:55,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:55,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:55,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:55,513 - appp - DEBUG - Generated signature for record: ad680cd2e0074ce6...
+2025-06-22 23:31:55,517 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:55.490462+00:00
+2025-06-22 23:31:55,518 - appp - DEBUG - Distance calculated: 47.24m between (51.697353,3.639942) and (51.696928,3.639942)
+2025-06-22 23:31:56,488 - appp - DEBUG - GPRMC parsed: 51.696515, 3.639942
+2025-06-22 23:31:56,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:56,490 - appp - DEBUG - Distance calculated: 45.96m between (51.696928,3.639942) and (51.696515,3.639942)
+2025-06-22 23:31:56,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:56,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:56,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:56,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:56,503 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:56,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:56,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:56,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:56,509 - appp - DEBUG - Generated signature for record: 6d85674091594e06...
+2025-06-22 23:31:56,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:56.488768+00:00
+2025-06-22 23:31:56,513 - appp - DEBUG - Distance calculated: 45.96m between (51.696928,3.639942) and (51.696515,3.639942)
+2025-06-22 23:31:57,487 - appp - DEBUG - GPRMC parsed: 51.696101, 3.639942
+2025-06-22 23:31:57,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:57,488 - appp - DEBUG - Distance calculated: 45.96m between (51.696515,3.639942) and (51.696101,3.639942)
+2025-06-22 23:31:57,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:57,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:57,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:57,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:57,499 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:57,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:57,500 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:57,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:57,504 - appp - DEBUG - Generated signature for record: 91cedcfb9d792a6a...
+2025-06-22 23:31:57,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:57.487838+00:00
+2025-06-22 23:31:57,507 - appp - DEBUG - Distance calculated: 45.96m between (51.696515,3.639942) and (51.696101,3.639942)
+2025-06-22 23:31:58,488 - appp - DEBUG - GPRMC parsed: 51.695695, 3.639942
+2025-06-22 23:31:58,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:58,489 - appp - DEBUG - Distance calculated: 45.24m between (51.696101,3.639942) and (51.695695,3.639942)
+2025-06-22 23:31:58,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:58,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:58,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:58,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:58,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:58,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:58,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:58,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:58,512 - appp - DEBUG - Generated signature for record: 74d82b52e9483b6d...
+2025-06-22 23:31:58,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:58.488038+00:00
+2025-06-22 23:31:58,516 - appp - DEBUG - Distance calculated: 45.24m between (51.696101,3.639942) and (51.695695,3.639942)
+2025-06-22 23:31:59,488 - appp - DEBUG - GPRMC parsed: 51.695274, 3.639942
+2025-06-22 23:31:59,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:31:59,489 - appp - DEBUG - Distance calculated: 46.72m between (51.695695,3.639942) and (51.695274,3.639942)
+2025-06-22 23:31:59,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:31:59,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:31:59,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:31:59,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:31:59,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:31:59,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:31:59,508 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:31:59,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:31:59,514 - appp - DEBUG - Generated signature for record: 53bf81021f92cec9...
+2025-06-22 23:31:59,517 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:31:59.488680+00:00
+2025-06-22 23:31:59,518 - appp - DEBUG - Distance calculated: 46.72m between (51.695695,3.639942) and (51.695274,3.639942)
+2025-06-22 23:32:00,487 - appp - DEBUG - GPRMC parsed: 51.694861, 3.639942
+2025-06-22 23:32:00,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:00,488 - appp - DEBUG - Distance calculated: 45.94m between (51.695274,3.639942) and (51.694861,3.639942)
+2025-06-22 23:32:00,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:00,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:00,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:00,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:00,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:00,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:00,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:00,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:00,507 - appp - DEBUG - Generated signature for record: f83baf73693afdf0...
+2025-06-22 23:32:00,510 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:00.487125+00:00
+2025-06-22 23:32:00,511 - appp - DEBUG - Distance calculated: 45.94m between (51.695274,3.639942) and (51.694861,3.639942)
+2025-06-22 23:32:01,488 - appp - DEBUG - GPRMC parsed: 51.694455, 3.639942
+2025-06-22 23:32:01,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:01,489 - appp - DEBUG - Distance calculated: 45.16m between (51.694861,3.639942) and (51.694455,3.639942)
+2025-06-22 23:32:01,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:01,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:01,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:01,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:01,499 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:01,500 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:01,500 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:01,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:01,502 - appp - DEBUG - Generated signature for record: 44f5b6c0d6ae7885...
+2025-06-22 23:32:01,505 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:01.488674+00:00
+2025-06-22 23:32:01,506 - appp - DEBUG - Distance calculated: 45.16m between (51.694861,3.639942) and (51.694455,3.639942)
+2025-06-22 23:32:02,485 - appp - DEBUG - GPRMC parsed: 51.694034, 3.639942
+2025-06-22 23:32:02,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:02,487 - appp - DEBUG - Distance calculated: 46.85m between (51.694455,3.639942) and (51.694034,3.639942)
+2025-06-22 23:32:02,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:02,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:02,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:02,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:02,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:02,494 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:02,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:02,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:02,496 - appp - DEBUG - Generated signature for record: 8df22d9a12d6af7f...
+2025-06-22 23:32:02,498 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:02.485191+00:00
+2025-06-22 23:32:02,501 - appp - DEBUG - Distance calculated: 46.85m between (51.694455,3.639942) and (51.694034,3.639942)
+2025-06-22 23:32:03,487 - appp - DEBUG - GPRMC parsed: 51.693620, 3.639942
+2025-06-22 23:32:03,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:03,488 - appp - DEBUG - Distance calculated: 46.03m between (51.694034,3.639942) and (51.693620,3.639942)
+2025-06-22 23:32:03,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:03,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:03,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:03,497 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:03,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:03,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:03,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:03,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:03,509 - appp - DEBUG - Generated signature for record: 2da50165df627407...
+2025-06-22 23:32:03,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:03.487261+00:00
+2025-06-22 23:32:03,515 - appp - DEBUG - Distance calculated: 46.03m between (51.694034,3.639942) and (51.693620,3.639942)
+2025-06-22 23:32:04,489 - appp - DEBUG - GPRMC parsed: 51.693206, 3.639942
+2025-06-22 23:32:04,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:04,490 - appp - DEBUG - Distance calculated: 46.05m between (51.693620,3.639942) and (51.693206,3.639942)
+2025-06-22 23:32:04,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:04,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:04,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:04,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:04,503 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:04,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:04,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:04,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:04,510 - appp - DEBUG - Generated signature for record: f25fd045f11c5f89...
+2025-06-22 23:32:04,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:04.489329+00:00
+2025-06-22 23:32:04,515 - appp - DEBUG - Distance calculated: 46.05m between (51.693620,3.639942) and (51.693206,3.639942)
+2025-06-22 23:32:05,482 - appp - DEBUG - GPRMC parsed: 51.692801, 3.639942
+2025-06-22 23:32:05,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:05,483 - appp - DEBUG - Distance calculated: 44.98m between (51.693206,3.639942) and (51.692801,3.639942)
+2025-06-22 23:32:05,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:05,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:05,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:05,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:05,496 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:05,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:05,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:05,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:05,502 - appp - DEBUG - Generated signature for record: 851d19e4311863cf...
+2025-06-22 23:32:05,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:05.482282+00:00
+2025-06-22 23:32:05,506 - appp - DEBUG - Distance calculated: 44.98m between (51.693206,3.639942) and (51.692801,3.639942)
+2025-06-22 23:32:06,486 - appp - DEBUG - GPRMC parsed: 51.692380, 3.639942
+2025-06-22 23:32:06,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:06,487 - appp - DEBUG - Distance calculated: 46.89m between (51.692801,3.639942) and (51.692380,3.639942)
+2025-06-22 23:32:06,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:06,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:06,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:06,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:06,500 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:06,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:06,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:06,501 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:06,507 - appp - DEBUG - Generated signature for record: 7ed1ccfb016e211f...
+2025-06-22 23:32:06,510 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:06.485944+00:00
+2025-06-22 23:32:06,511 - appp - DEBUG - Distance calculated: 46.89m between (51.692801,3.639942) and (51.692380,3.639942)
+2025-06-22 23:32:07,484 - appp - DEBUG - GPRMC parsed: 51.691966, 3.639942
+2025-06-22 23:32:07,485 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:07,485 - appp - DEBUG - Distance calculated: 45.92m between (51.692380,3.639942) and (51.691966,3.639942)
+2025-06-22 23:32:07,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:07,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:07,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:07,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:07,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:07,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:07,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:07,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:07,509 - appp - DEBUG - Generated signature for record: 26550d3f8eb4f2a7...
+2025-06-22 23:32:07,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:07.484662+00:00
+2025-06-22 23:32:07,514 - appp - DEBUG - Distance calculated: 45.92m between (51.692380,3.639942) and (51.691966,3.639942)
+2025-06-22 23:32:08,479 - appp - DEBUG - GPRMC parsed: 51.691561, 3.639942
+2025-06-22 23:32:08,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:08,479 - appp - DEBUG - Distance calculated: 45.03m between (51.691966,3.639942) and (51.691561,3.639942)
+2025-06-22 23:32:08,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:08,485 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:08,486 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:08,486 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:08,490 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:08,491 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:08,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:08,492 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:08,497 - appp - DEBUG - Generated signature for record: 2edb5a73ae07076b...
+2025-06-22 23:32:08,501 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:08.478896+00:00
+2025-06-22 23:32:08,502 - appp - DEBUG - Distance calculated: 45.03m between (51.691966,3.639942) and (51.691561,3.639942)
+2025-06-22 23:32:09,478 - appp - DEBUG - GPRMC parsed: 51.691148, 3.639942
+2025-06-22 23:32:09,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:09,479 - appp - DEBUG - Distance calculated: 45.94m between (51.691561,3.639942) and (51.691148,3.639942)
+2025-06-22 23:32:09,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:09,486 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:09,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:09,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:09,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:09,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:09,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:09,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:09,499 - appp - DEBUG - Generated signature for record: 4b99d6ae034de471...
+2025-06-22 23:32:09,502 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:09.478327+00:00
+2025-06-22 23:32:09,503 - appp - DEBUG - Distance calculated: 45.94m between (51.691561,3.639942) and (51.691148,3.639942)
+2025-06-22 23:32:10,493 - appp - DEBUG - GPRMC parsed: 51.690722, 3.639942
+2025-06-22 23:32:10,494 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:10,494 - appp - DEBUG - Distance calculated: 47.37m between (51.691148,3.639942) and (51.690722,3.639942)
+2025-06-22 23:32:10,497 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:10,502 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:10,502 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:10,503 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:10,507 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:10,508 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:10,510 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:10,511 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:10,516 - appp - DEBUG - Generated signature for record: 227c24c61d0da39e...
+2025-06-22 23:32:10,520 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:10.493517+00:00
+2025-06-22 23:32:10,520 - appp - DEBUG - Distance calculated: 47.37m between (51.691148,3.639942) and (51.690722,3.639942)
+2025-06-22 23:32:11,490 - appp - DEBUG - GPRMC parsed: 51.690309, 3.639942
+2025-06-22 23:32:11,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:11,491 - appp - DEBUG - Distance calculated: 45.90m between (51.690722,3.639942) and (51.690309,3.639942)
+2025-06-22 23:32:11,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:11,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:11,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:11,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:11,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:11,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:11,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:11,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:11,513 - appp - DEBUG - Generated signature for record: 6c890fb9ebc6e7b7...
+2025-06-22 23:32:11,516 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:11.490576+00:00
+2025-06-22 23:32:11,516 - appp - DEBUG - Distance calculated: 45.90m between (51.690722,3.639942) and (51.690309,3.639942)
+2025-06-22 23:32:12,490 - appp - DEBUG - GPRMC parsed: 51.689903, 3.639942
+2025-06-22 23:32:12,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:12,490 - appp - DEBUG - Distance calculated: 45.24m between (51.690309,3.639942) and (51.689903,3.639942)
+2025-06-22 23:32:12,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:12,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:12,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:12,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:12,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:12,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:12,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:12,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:12,497 - appp - DEBUG - Generated signature for record: fd9e911697012b48...
+2025-06-22 23:32:12,499 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:12.490222+00:00
+2025-06-22 23:32:12,499 - appp - DEBUG - Distance calculated: 45.24m between (51.690309,3.639942) and (51.689903,3.639942)
+2025-06-22 23:32:13,491 - appp - DEBUG - GPRMC parsed: 51.689489, 3.639942
+2025-06-22 23:32:13,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:13,492 - appp - DEBUG - Distance calculated: 45.96m between (51.689903,3.639942) and (51.689489,3.639942)
+2025-06-22 23:32:13,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:13,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:13,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:13,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:13,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:13,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:13,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:13,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:13,510 - appp - DEBUG - Generated signature for record: 8ccdcbf3a8c539f6...
+2025-06-22 23:32:13,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:13.490762+00:00
+2025-06-22 23:32:13,514 - appp - DEBUG - Distance calculated: 45.96m between (51.689903,3.639942) and (51.689489,3.639942)
+2025-06-22 23:32:14,479 - appp - DEBUG - GPRMC parsed: 51.689074, 3.639942
+2025-06-22 23:32:14,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:14,480 - appp - DEBUG - Distance calculated: 46.13m between (51.689489,3.639942) and (51.689074,3.639942)
+2025-06-22 23:32:14,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:14,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:14,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:14,488 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:14,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:14,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:14,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:14,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:14,499 - appp - DEBUG - Generated signature for record: d0080bd58a571adc...
+2025-06-22 23:32:14,502 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:14.479041+00:00
+2025-06-22 23:32:14,503 - appp - DEBUG - Distance calculated: 46.13m between (51.689489,3.639942) and (51.689074,3.639942)
+2025-06-22 23:32:15,486 - appp - DEBUG - GPRMC parsed: 51.688664, 3.639942
+2025-06-22 23:32:15,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:15,487 - appp - DEBUG - Distance calculated: 45.66m between (51.689074,3.639942) and (51.688664,3.639942)
+2025-06-22 23:32:15,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:15,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:15,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:15,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:15,500 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:15,500 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:15,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:15,501 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:15,505 - appp - DEBUG - Generated signature for record: cd695b67f684225c...
+2025-06-22 23:32:15,508 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:15.486537+00:00
+2025-06-22 23:32:15,508 - appp - DEBUG - Distance calculated: 45.66m between (51.689074,3.639942) and (51.688664,3.639942)
+2025-06-22 23:32:16,491 - appp - DEBUG - GPRMC parsed: 51.688243, 3.639942
+2025-06-22 23:32:16,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:16,492 - appp - DEBUG - Distance calculated: 46.83m between (51.688664,3.639942) and (51.688243,3.639942)
+2025-06-22 23:32:16,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:16,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:16,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:16,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:16,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:16,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:16,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:16,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:16,511 - appp - DEBUG - Generated signature for record: 7052bda8ad63eabd...
+2025-06-22 23:32:16,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:16.491113+00:00
+2025-06-22 23:32:16,513 - appp - DEBUG - Distance calculated: 46.83m between (51.688664,3.639942) and (51.688243,3.639942)
+2025-06-22 23:32:17,483 - appp - DEBUG - GPRMC parsed: 51.687832, 3.639942
+2025-06-22 23:32:17,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:17,483 - appp - DEBUG - Distance calculated: 45.70m between (51.688243,3.639942) and (51.687832,3.639942)
+2025-06-22 23:32:17,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:17,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:17,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:17,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:17,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:17,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:17,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:17,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:17,496 - appp - DEBUG - Generated signature for record: c4e36f3c0acea2e8...
+2025-06-22 23:32:17,499 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:17.483093+00:00
+2025-06-22 23:32:17,499 - appp - DEBUG - Distance calculated: 45.70m between (51.688243,3.639942) and (51.687832,3.639942)
+2025-06-22 23:32:18,493 - appp - DEBUG - GPRMC parsed: 51.687423, 3.639942
+2025-06-22 23:32:18,493 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:18,493 - appp - DEBUG - Distance calculated: 45.42m between (51.687832,3.639942) and (51.687423,3.639942)
+2025-06-22 23:32:18,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:18,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:18,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:18,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:18,500 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:18,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:18,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:18,501 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:18,503 - appp - DEBUG - Generated signature for record: 5f7be9ce79547c36...
+2025-06-22 23:32:18,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:18.493035+00:00
+2025-06-22 23:32:18,506 - appp - DEBUG - Distance calculated: 45.42m between (51.687832,3.639942) and (51.687423,3.639942)
+2025-06-22 23:32:19,492 - appp - DEBUG - GPRMC parsed: 51.687001, 3.639942
+2025-06-22 23:32:19,493 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:19,493 - appp - DEBUG - Distance calculated: 46.94m between (51.687423,3.639942) and (51.687001,3.639942)
+2025-06-22 23:32:19,496 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:19,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:19,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:19,502 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:19,507 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:19,508 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:19,508 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:19,509 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:19,514 - appp - DEBUG - Generated signature for record: 8bf9031bb7013110...
+2025-06-22 23:32:19,517 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:19.492613+00:00
+2025-06-22 23:32:19,518 - appp - DEBUG - Distance calculated: 46.94m between (51.687423,3.639942) and (51.687001,3.639942)
+2025-06-22 23:32:20,491 - appp - DEBUG - GPRMC parsed: 51.686588, 3.639942
+2025-06-22 23:32:20,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:20,492 - appp - DEBUG - Distance calculated: 45.94m between (51.687001,3.639942) and (51.686588,3.639942)
+2025-06-22 23:32:20,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:20,501 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:20,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:20,501 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:20,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:20,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:20,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:20,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:20,512 - appp - DEBUG - Generated signature for record: d163d5f3cebc9ed2...
+2025-06-22 23:32:20,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:20.491837+00:00
+2025-06-22 23:32:20,516 - appp - DEBUG - Distance calculated: 45.94m between (51.687001,3.639942) and (51.686588,3.639942)
+2025-06-22 23:32:21,490 - appp - DEBUG - GPRMC parsed: 51.686175, 3.639942
+2025-06-22 23:32:21,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:21,492 - appp - DEBUG - Distance calculated: 45.90m between (51.686588,3.639942) and (51.686175,3.639942)
+2025-06-22 23:32:21,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:21,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:21,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:21,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:21,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:21,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:21,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:21,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:21,510 - appp - DEBUG - Generated signature for record: 671a7d87605a47a6...
+2025-06-22 23:32:21,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:21.490234+00:00
+2025-06-22 23:32:21,515 - appp - DEBUG - Distance calculated: 45.90m between (51.686588,3.639942) and (51.686175,3.639942)
+2025-06-22 23:32:22,489 - appp - DEBUG - GPRMC parsed: 51.685770, 3.639942
+2025-06-22 23:32:22,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:22,490 - appp - DEBUG - Distance calculated: 45.02m between (51.686175,3.639942) and (51.685770,3.639942)
+2025-06-22 23:32:22,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:22,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:22,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:22,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:22,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:22,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:22,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:22,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:22,512 - appp - DEBUG - Generated signature for record: b11a01b9d2f999c8...
+2025-06-22 23:32:22,516 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:22.489319+00:00
+2025-06-22 23:32:22,516 - appp - DEBUG - Distance calculated: 45.02m between (51.686175,3.639942) and (51.685770,3.639942)
+2025-06-22 23:32:23,491 - appp - DEBUG - GPRMC parsed: 51.685348, 3.639942
+2025-06-22 23:32:23,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:23,492 - appp - DEBUG - Distance calculated: 46.98m between (51.685770,3.639942) and (51.685348,3.639942)
+2025-06-22 23:32:23,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:23,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:23,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:23,501 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:23,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:23,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:23,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:23,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:23,512 - appp - DEBUG - Generated signature for record: b1b431d4c86bb20f...
+2025-06-22 23:32:23,516 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:23.491059+00:00
+2025-06-22 23:32:23,517 - appp - DEBUG - Distance calculated: 46.98m between (51.685770,3.639942) and (51.685348,3.639942)
+2025-06-22 23:32:24,487 - appp - DEBUG - GPRMC parsed: 51.684943, 3.639942
+2025-06-22 23:32:24,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:24,488 - appp - DEBUG - Distance calculated: 45.00m between (51.685348,3.639942) and (51.684943,3.639942)
+2025-06-22 23:32:24,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:24,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:24,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:24,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:24,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:24,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:24,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:24,503 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:24,507 - appp - DEBUG - Generated signature for record: ef4d297aa1c44d4e...
+2025-06-22 23:32:24,511 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:24.486936+00:00
+2025-06-22 23:32:24,511 - appp - DEBUG - Distance calculated: 45.00m between (51.685348,3.639942) and (51.684943,3.639942)
+2025-06-22 23:32:25,486 - appp - DEBUG - GPRMC parsed: 51.684523, 3.639942
+2025-06-22 23:32:25,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:25,488 - appp - DEBUG - Distance calculated: 46.72m between (51.684943,3.639942) and (51.684523,3.639942)
+2025-06-22 23:32:25,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:25,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:25,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:25,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:25,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:25,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:25,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:25,503 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:25,508 - appp - DEBUG - Generated signature for record: 0b969d8bf81f7d8e...
+2025-06-22 23:32:25,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:25.486912+00:00
+2025-06-22 23:32:25,513 - appp - DEBUG - Distance calculated: 46.72m between (51.684943,3.639942) and (51.684523,3.639942)
+2025-06-22 23:32:26,485 - appp - DEBUG - GPRMC parsed: 51.684110, 3.639942
+2025-06-22 23:32:26,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:26,486 - appp - DEBUG - Distance calculated: 45.89m between (51.684523,3.639942) and (51.684110,3.639942)
+2025-06-22 23:32:26,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:26,493 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:26,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:26,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:26,500 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:26,500 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:26,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:26,501 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:26,506 - appp - DEBUG - Generated signature for record: e2ec13f50f0abaab...
+2025-06-22 23:32:26,509 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:26.485531+00:00
+2025-06-22 23:32:26,510 - appp - DEBUG - Distance calculated: 45.89m between (51.684523,3.639942) and (51.684110,3.639942)
+2025-06-22 23:32:27,482 - appp - DEBUG - GPRMC parsed: 51.683705, 3.639942
+2025-06-22 23:32:27,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:27,483 - appp - DEBUG - Distance calculated: 45.05m between (51.684110,3.639942) and (51.683705,3.639942)
+2025-06-22 23:32:27,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:27,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:27,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:27,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:27,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:27,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:27,498 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:27,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:27,504 - appp - DEBUG - Generated signature for record: 7c68ea7e17f78df3...
+2025-06-22 23:32:27,507 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:27.482403+00:00
+2025-06-22 23:32:27,508 - appp - DEBUG - Distance calculated: 45.05m between (51.684110,3.639942) and (51.683705,3.639942)
+2025-06-22 23:32:28,485 - appp - DEBUG - GPRMC parsed: 51.683289, 3.639942
+2025-06-22 23:32:28,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:28,486 - appp - DEBUG - Distance calculated: 46.29m between (51.683705,3.639942) and (51.683289,3.639942)
+2025-06-22 23:32:28,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:28,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:28,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:28,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:28,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:28,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:28,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:28,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:28,507 - appp - DEBUG - Generated signature for record: d2fb20a0a3445970...
+2025-06-22 23:32:28,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:28.485593+00:00
+2025-06-22 23:32:28,512 - appp - DEBUG - Distance calculated: 46.29m between (51.683705,3.639942) and (51.683289,3.639942)
+2025-06-22 23:32:29,483 - appp - DEBUG - GPRMC parsed: 51.682870, 3.639942
+2025-06-22 23:32:29,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:29,484 - appp - DEBUG - Distance calculated: 46.61m between (51.683289,3.639942) and (51.682870,3.639942)
+2025-06-22 23:32:29,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:29,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:29,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:29,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:29,496 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:29,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:29,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:29,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:29,502 - appp - DEBUG - Generated signature for record: 0a14320dab8ca8e9...
+2025-06-22 23:32:29,507 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:29.483634+00:00
+2025-06-22 23:32:29,507 - appp - DEBUG - Distance calculated: 46.61m between (51.683289,3.639942) and (51.682870,3.639942)
+2025-06-22 23:32:30,479 - appp - DEBUG - GPRMC parsed: 51.682458, 3.639942
+2025-06-22 23:32:30,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:30,480 - appp - DEBUG - Distance calculated: 45.79m between (51.682870,3.639942) and (51.682458,3.639942)
+2025-06-22 23:32:30,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:30,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:30,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:30,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:30,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:30,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:30,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:30,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:30,503 - appp - DEBUG - Generated signature for record: 71d4a97591aefe3f...
+2025-06-22 23:32:30,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:30.479408+00:00
+2025-06-22 23:32:30,507 - appp - DEBUG - Distance calculated: 45.79m between (51.682870,3.639942) and (51.682458,3.639942)
+2025-06-22 23:32:31,491 - appp - DEBUG - GPRMC parsed: 51.682039, 3.639942
+2025-06-22 23:32:31,499 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:31,502 - appp - DEBUG - Distance calculated: 46.59m between (51.682458,3.639942) and (51.682039,3.639942)
+2025-06-22 23:32:31,505 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:31,515 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:31,515 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:31,515 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:31,521 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:31,522 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:31,522 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:31,522 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:31,532 - appp - DEBUG - Generated signature for record: 309bb4475c75b236...
+2025-06-22 23:32:31,534 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:31.491177+00:00
+2025-06-22 23:32:31,535 - appp - DEBUG - Distance calculated: 46.59m between (51.682458,3.639942) and (51.682039,3.639942)
+2025-06-22 23:32:32,478 - appp - DEBUG - GPRMC parsed: 51.681630, 3.639942
+2025-06-22 23:32:32,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:32,480 - appp - DEBUG - Distance calculated: 45.40m between (51.682039,3.639942) and (51.681630,3.639942)
+2025-06-22 23:32:32,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:32,486 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:32,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:32,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:32,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:32,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:32,494 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:32,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:32,501 - appp - DEBUG - Generated signature for record: 350bf3fc5cdb109d...
+2025-06-22 23:32:32,504 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:32.478826+00:00
+2025-06-22 23:32:32,505 - appp - DEBUG - Distance calculated: 45.40m between (51.682039,3.639942) and (51.681630,3.639942)
+2025-06-22 23:32:33,486 - appp - DEBUG - GPRMC parsed: 51.681214, 3.639942
+2025-06-22 23:32:33,509 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:33,510 - appp - DEBUG - Distance calculated: 46.31m between (51.681630,3.639942) and (51.681214,3.639942)
+2025-06-22 23:32:33,512 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:33,515 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:33,515 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:33,516 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:33,519 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:33,519 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:33,520 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:33,520 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:33,535 - appp - DEBUG - Generated signature for record: 4093bd3ed8804d50...
+2025-06-22 23:32:33,538 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:33.485984+00:00
+2025-06-22 23:32:33,538 - appp - DEBUG - Distance calculated: 46.31m between (51.681630,3.639942) and (51.681214,3.639942)
+2025-06-22 23:32:34,491 - appp - DEBUG - GPRMC parsed: 51.680805, 3.639942
+2025-06-22 23:32:34,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:34,492 - appp - DEBUG - Distance calculated: 45.52m between (51.681214,3.639942) and (51.680805,3.639942)
+2025-06-22 23:32:34,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:34,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:34,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:34,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:34,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:34,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:34,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:34,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:34,514 - appp - DEBUG - Generated signature for record: bf18768e11c93517...
+2025-06-22 23:32:34,539 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:34.491126+00:00
+2025-06-22 23:32:34,540 - appp - DEBUG - Distance calculated: 45.52m between (51.681214,3.639942) and (51.680805,3.639942)
+2025-06-22 23:32:35,491 - appp - DEBUG - GPRMC parsed: 51.680395, 3.639942
+2025-06-22 23:32:35,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:35,492 - appp - DEBUG - Distance calculated: 45.53m between (51.680805,3.639942) and (51.680395,3.639942)
+2025-06-22 23:32:35,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:35,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:35,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:35,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:35,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:35,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:35,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:35,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:35,510 - appp - DEBUG - Generated signature for record: 235af33684af14de...
+2025-06-22 23:32:35,532 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:35.491385+00:00
+2025-06-22 23:32:35,533 - appp - DEBUG - Distance calculated: 45.53m between (51.680805,3.639942) and (51.680395,3.639942)
+2025-06-22 23:32:36,489 - appp - DEBUG - GPRMC parsed: 51.679972, 3.639942
+2025-06-22 23:32:36,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:36,490 - appp - DEBUG - Distance calculated: 47.05m between (51.680395,3.639942) and (51.679972,3.639942)
+2025-06-22 23:32:36,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:36,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:36,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:36,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:36,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:36,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:36,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:36,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:36,510 - appp - DEBUG - Generated signature for record: 241c1c494b7f4d58...
+2025-06-22 23:32:36,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:36.489542+00:00
+2025-06-22 23:32:36,514 - appp - DEBUG - Distance calculated: 47.05m between (51.680395,3.639942) and (51.679972,3.639942)
+2025-06-22 23:32:37,488 - appp - DEBUG - GPRMC parsed: 51.679565, 3.639942
+2025-06-22 23:32:37,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:37,490 - appp - DEBUG - Distance calculated: 45.26m between (51.679972,3.639942) and (51.679565,3.639942)
+2025-06-22 23:32:37,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:37,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:37,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:37,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:37,503 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:37,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:37,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:37,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:37,509 - appp - DEBUG - Generated signature for record: 4548f4588c7abef3...
+2025-06-22 23:32:37,513 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:37.488851+00:00
+2025-06-22 23:32:37,513 - appp - DEBUG - Distance calculated: 45.26m between (51.679972,3.639942) and (51.679565,3.639942)
+2025-06-22 23:32:38,481 - appp - DEBUG - GPRMC parsed: 51.679147, 3.639942
+2025-06-22 23:32:38,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:38,483 - appp - DEBUG - Distance calculated: 46.48m between (51.679565,3.639942) and (51.679147,3.639942)
+2025-06-22 23:32:38,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:38,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:38,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:38,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:38,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:38,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:38,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:38,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:38,506 - appp - DEBUG - Generated signature for record: c4905f81e7d60f9a...
+2025-06-22 23:32:38,509 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:38.481887+00:00
+2025-06-22 23:32:38,510 - appp - DEBUG - Distance calculated: 46.48m between (51.679565,3.639942) and (51.679147,3.639942)
+2025-06-22 23:32:39,489 - appp - DEBUG - GPRMC parsed: 51.678731, 3.639942
+2025-06-22 23:32:39,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:39,490 - appp - DEBUG - Distance calculated: 46.28m between (51.679147,3.639942) and (51.678731,3.639942)
+2025-06-22 23:32:39,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:39,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:39,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:39,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:39,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:39,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:39,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:39,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:39,511 - appp - DEBUG - Generated signature for record: bb2ed1a1d4e0892e...
+2025-06-22 23:32:39,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:39.489563+00:00
+2025-06-22 23:32:39,515 - appp - DEBUG - Distance calculated: 46.28m between (51.679147,3.639942) and (51.678731,3.639942)
+2025-06-22 23:32:40,482 - appp - DEBUG - GPRMC parsed: 51.678319, 3.639942
+2025-06-22 23:32:40,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:40,484 - appp - DEBUG - Distance calculated: 45.78m between (51.678731,3.639942) and (51.678319,3.639942)
+2025-06-22 23:32:40,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:40,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:40,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:40,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:40,489 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:40,489 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:40,489 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:40,489 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:40,491 - appp - DEBUG - Generated signature for record: cb45abcf9ec54142...
+2025-06-22 23:32:40,492 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:40.482646+00:00
+2025-06-22 23:32:40,493 - appp - DEBUG - Distance calculated: 45.78m between (51.678731,3.639942) and (51.678319,3.639942)
+2025-06-22 23:32:41,487 - appp - DEBUG - GPRMC parsed: 51.677904, 3.639942
+2025-06-22 23:32:41,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:41,488 - appp - DEBUG - Distance calculated: 46.13m between (51.678319,3.639942) and (51.677904,3.639942)
+2025-06-22 23:32:41,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:41,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:41,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:41,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:41,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:41,503 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:41,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:41,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:41,508 - appp - DEBUG - Generated signature for record: b15877d79550c57c...
+2025-06-22 23:32:41,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:41.487332+00:00
+2025-06-22 23:32:41,513 - appp - DEBUG - Distance calculated: 46.13m between (51.678319,3.639942) and (51.677904,3.639942)
+2025-06-22 23:32:42,486 - appp - DEBUG - GPRMC parsed: 51.677499, 3.639942
+2025-06-22 23:32:42,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:42,487 - appp - DEBUG - Distance calculated: 45.05m between (51.677904,3.639942) and (51.677499,3.639942)
+2025-06-22 23:32:42,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:42,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:42,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:42,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:42,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:42,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:42,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:42,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:42,508 - appp - DEBUG - Generated signature for record: ff9718daa5ce5923...
+2025-06-22 23:32:42,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:42.486300+00:00
+2025-06-22 23:32:42,513 - appp - DEBUG - Distance calculated: 45.05m between (51.677904,3.639942) and (51.677499,3.639942)
+2025-06-22 23:32:43,483 - appp - DEBUG - GPRMC parsed: 51.677078, 3.639942
+2025-06-22 23:32:43,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:43,484 - appp - DEBUG - Distance calculated: 46.81m between (51.677499,3.639942) and (51.677078,3.639942)
+2025-06-22 23:32:43,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:43,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:43,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:43,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:43,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:43,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:43,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:43,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:43,500 - appp - DEBUG - Generated signature for record: 9703649d28ee0e94...
+2025-06-22 23:32:43,502 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:43.483825+00:00
+2025-06-22 23:32:43,503 - appp - DEBUG - Distance calculated: 46.81m between (51.677499,3.639942) and (51.677078,3.639942)
+2025-06-22 23:32:44,483 - appp - DEBUG - GPRMC parsed: 51.676665, 3.639942
+2025-06-22 23:32:44,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:44,484 - appp - DEBUG - Distance calculated: 45.98m between (51.677078,3.639942) and (51.676665,3.639942)
+2025-06-22 23:32:44,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:44,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:44,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:44,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:44,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:44,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:44,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:44,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:44,497 - appp - DEBUG - Generated signature for record: bc0c2b1df59c8346...
+2025-06-22 23:32:44,500 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:44.483659+00:00
+2025-06-22 23:32:44,500 - appp - DEBUG - Distance calculated: 45.98m between (51.677078,3.639942) and (51.676665,3.639942)
+2025-06-22 23:32:45,483 - appp - DEBUG - GPRMC parsed: 51.676251, 3.639942
+2025-06-22 23:32:45,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:45,484 - appp - DEBUG - Distance calculated: 45.98m between (51.676665,3.639942) and (51.676251,3.639942)
+2025-06-22 23:32:45,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:45,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:45,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:45,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:45,496 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:45,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:45,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:45,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:45,503 - appp - DEBUG - Generated signature for record: 41bdb90879d7e18a...
+2025-06-22 23:32:45,507 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:45.483070+00:00
+2025-06-22 23:32:45,508 - appp - DEBUG - Distance calculated: 45.98m between (51.676665,3.639942) and (51.676251,3.639942)
+2025-06-22 23:32:46,479 - appp - DEBUG - GPRMC parsed: 51.675845, 3.639942
+2025-06-22 23:32:46,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:46,480 - appp - DEBUG - Distance calculated: 45.15m between (51.676251,3.639942) and (51.675845,3.639942)
+2025-06-22 23:32:46,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:46,485 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:46,486 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:46,486 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:46,489 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:46,490 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:46,490 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:46,490 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:46,496 - appp - DEBUG - Generated signature for record: 1830903bc1ab7a6b...
+2025-06-22 23:32:46,502 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:46.479218+00:00
+2025-06-22 23:32:46,503 - appp - DEBUG - Distance calculated: 45.15m between (51.676251,3.639942) and (51.675845,3.639942)
+2025-06-22 23:32:47,481 - appp - DEBUG - GPRMC parsed: 51.675424, 3.639942
+2025-06-22 23:32:47,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:47,482 - appp - DEBUG - Distance calculated: 46.78m between (51.675845,3.639942) and (51.675424,3.639942)
+2025-06-22 23:32:47,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:47,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:47,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:47,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:47,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:47,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:47,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:47,494 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:47,498 - appp - DEBUG - Generated signature for record: b5c9c57230f4c123...
+2025-06-22 23:32:47,501 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:47.481123+00:00
+2025-06-22 23:32:47,502 - appp - DEBUG - Distance calculated: 46.78m between (51.675845,3.639942) and (51.675424,3.639942)
+2025-06-22 23:32:48,486 - appp - DEBUG - GPRMC parsed: 51.675009, 3.639942
+2025-06-22 23:32:48,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:48,488 - appp - DEBUG - Distance calculated: 46.22m between (51.675424,3.639942) and (51.675009,3.639942)
+2025-06-22 23:32:48,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:48,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:48,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:48,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:48,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:48,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:48,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:48,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:48,511 - appp - DEBUG - Generated signature for record: 71d22c52d7e91ab7...
+2025-06-22 23:32:48,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:48.486609+00:00
+2025-06-22 23:32:48,516 - appp - DEBUG - Distance calculated: 46.22m between (51.675424,3.639942) and (51.675009,3.639942)
+2025-06-22 23:32:49,480 - appp - DEBUG - GPRMC parsed: 51.674598, 3.639942
+2025-06-22 23:32:49,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:49,481 - appp - DEBUG - Distance calculated: 45.70m between (51.675009,3.639942) and (51.674598,3.639942)
+2025-06-22 23:32:49,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:49,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:49,488 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:49,488 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:49,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:49,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:49,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:49,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:49,498 - appp - DEBUG - Generated signature for record: 9e0298d2b66d6848...
+2025-06-22 23:32:49,500 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:49.480420+00:00
+2025-06-22 23:32:49,501 - appp - DEBUG - Distance calculated: 45.70m between (51.675009,3.639942) and (51.674598,3.639942)
+2025-06-22 23:32:50,483 - appp - DEBUG - GPRMC parsed: 51.674189, 3.639942
+2025-06-22 23:32:50,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:50,484 - appp - DEBUG - Distance calculated: 45.44m between (51.674598,3.639942) and (51.674189,3.639942)
+2025-06-22 23:32:50,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:50,492 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:50,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:50,493 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:50,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:50,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:50,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:50,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:50,505 - appp - DEBUG - Generated signature for record: 152231e4de7372af...
+2025-06-22 23:32:50,509 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:50.483521+00:00
+2025-06-22 23:32:50,511 - appp - DEBUG - Distance calculated: 45.44m between (51.674598,3.639942) and (51.674189,3.639942)
+2025-06-22 23:32:51,479 - appp - DEBUG - GPRMC parsed: 51.673784, 3.639942
+2025-06-22 23:32:51,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:51,480 - appp - DEBUG - Distance calculated: 45.05m between (51.674189,3.639942) and (51.673784,3.639942)
+2025-06-22 23:32:51,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:51,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:51,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:51,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:51,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:51,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:51,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:51,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:51,502 - appp - DEBUG - Generated signature for record: ca0791ab84e4da19...
+2025-06-22 23:32:51,505 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:51.479058+00:00
+2025-06-22 23:32:51,506 - appp - DEBUG - Distance calculated: 45.05m between (51.674189,3.639942) and (51.673784,3.639942)
+2025-06-22 23:32:52,492 - appp - DEBUG - GPRMC parsed: 51.673352, 3.639942
+2025-06-22 23:32:52,493 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:52,493 - appp - DEBUG - Distance calculated: 48.05m between (51.673784,3.639942) and (51.673352,3.639942)
+2025-06-22 23:32:52,496 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:52,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:52,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:52,501 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:52,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:52,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:52,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:52,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:52,512 - appp - DEBUG - Generated signature for record: ab2f6f54e98b8262...
+2025-06-22 23:32:52,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:52.492639+00:00
+2025-06-22 23:32:52,516 - appp - DEBUG - Distance calculated: 48.05m between (51.673784,3.639942) and (51.673352,3.639942)
+2025-06-22 23:32:53,492 - appp - DEBUG - GPRMC parsed: 51.672945, 3.639942
+2025-06-22 23:32:53,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:53,493 - appp - DEBUG - Distance calculated: 45.24m between (51.673352,3.639942) and (51.672945,3.639942)
+2025-06-22 23:32:53,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:53,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:53,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:53,501 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:53,508 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:53,508 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:53,509 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:53,509 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:53,514 - appp - DEBUG - Generated signature for record: 3e5c7bd818250d7f...
+2025-06-22 23:32:53,517 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:53.492225+00:00
+2025-06-22 23:32:53,518 - appp - DEBUG - Distance calculated: 45.24m between (51.673352,3.639942) and (51.672945,3.639942)
+2025-06-22 23:32:54,490 - appp - DEBUG - GPRMC parsed: 51.672531, 3.639942
+2025-06-22 23:32:54,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:54,491 - appp - DEBUG - Distance calculated: 45.96m between (51.672945,3.639942) and (51.672531,3.639942)
+2025-06-22 23:32:54,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:54,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:54,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:54,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:54,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:54,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:54,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:54,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:54,511 - appp - DEBUG - Generated signature for record: 3a13ccf952d21d14...
+2025-06-22 23:32:54,514 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:54.490421+00:00
+2025-06-22 23:32:54,514 - appp - DEBUG - Distance calculated: 45.96m between (51.672945,3.639942) and (51.672531,3.639942)
+2025-06-22 23:32:55,489 - appp - DEBUG - GPRMC parsed: 51.672118, 3.639942
+2025-06-22 23:32:55,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:55,490 - appp - DEBUG - Distance calculated: 45.96m between (51.672531,3.639942) and (51.672118,3.639942)
+2025-06-22 23:32:55,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:55,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:55,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:55,497 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:55,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:55,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:55,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:55,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:55,507 - appp - DEBUG - Generated signature for record: f518ef35dc1891b2...
+2025-06-22 23:32:55,510 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:55.489584+00:00
+2025-06-22 23:32:55,510 - appp - DEBUG - Distance calculated: 45.96m between (51.672531,3.639942) and (51.672118,3.639942)
+2025-06-22 23:32:56,488 - appp - DEBUG - GPRMC parsed: 51.671698, 3.639942
+2025-06-22 23:32:56,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:56,489 - appp - DEBUG - Distance calculated: 46.66m between (51.672118,3.639942) and (51.671698,3.639942)
+2025-06-22 23:32:56,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:56,493 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:56,494 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:56,494 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:56,496 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:56,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:56,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:56,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:56,498 - appp - DEBUG - Generated signature for record: f81c310ac7562797...
+2025-06-22 23:32:56,500 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:56.488517+00:00
+2025-06-22 23:32:56,501 - appp - DEBUG - Distance calculated: 46.66m between (51.672118,3.639942) and (51.671698,3.639942)
+2025-06-22 23:32:57,491 - appp - DEBUG - GPRMC parsed: 51.671285, 3.639942
+2025-06-22 23:32:57,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:57,493 - appp - DEBUG - Distance calculated: 46.00m between (51.671698,3.639942) and (51.671285,3.639942)
+2025-06-22 23:32:57,496 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:57,501 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:57,501 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:57,502 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:57,508 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:57,508 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:57,509 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:57,509 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:57,515 - appp - DEBUG - Generated signature for record: 2685607af48e5c02...
+2025-06-22 23:32:57,518 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:57.491726+00:00
+2025-06-22 23:32:57,519 - appp - DEBUG - Distance calculated: 46.00m between (51.671698,3.639942) and (51.671285,3.639942)
+2025-06-22 23:32:58,492 - appp - DEBUG - GPRMC parsed: 51.670871, 3.639942
+2025-06-22 23:32:58,493 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:58,494 - appp - DEBUG - Distance calculated: 46.00m between (51.671285,3.639942) and (51.670871,3.639942)
+2025-06-22 23:32:58,497 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:58,502 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:58,505 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:58,506 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:58,511 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:58,511 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:58,512 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:58,512 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:58,517 - appp - DEBUG - Generated signature for record: 8d55639b48797fbe...
+2025-06-22 23:32:58,521 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:58.492466+00:00
+2025-06-22 23:32:58,523 - appp - DEBUG - Distance calculated: 46.00m between (51.671285,3.639942) and (51.670871,3.639942)
+2025-06-22 23:32:59,490 - appp - DEBUG - GPRMC parsed: 51.670459, 3.639942
+2025-06-22 23:32:59,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:32:59,491 - appp - DEBUG - Distance calculated: 45.87m between (51.670871,3.639942) and (51.670459,3.639942)
+2025-06-22 23:32:59,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:32:59,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:32:59,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:32:59,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:32:59,507 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:32:59,508 - appp - INFO -   In ECA zone: False
+2025-06-22 23:32:59,508 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:32:59,508 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:32:59,514 - appp - DEBUG - Generated signature for record: 072efc5858ee239b...
+2025-06-22 23:32:59,518 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:32:59.490617+00:00
+2025-06-22 23:32:59,519 - appp - DEBUG - Distance calculated: 45.87m between (51.670871,3.639942) and (51.670459,3.639942)
+2025-06-22 23:33:00,488 - appp - DEBUG - GPRMC parsed: 51.670045, 3.639942
+2025-06-22 23:33:00,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:00,490 - appp - DEBUG - Distance calculated: 45.98m between (51.670459,3.639942) and (51.670045,3.639942)
+2025-06-22 23:33:00,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:00,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:00,496 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:00,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:00,502 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:00,502 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:00,503 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:00,504 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:00,509 - appp - DEBUG - Generated signature for record: 676ec7e3e3afb213...
+2025-06-22 23:33:00,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:00.488678+00:00
+2025-06-22 23:33:00,513 - appp - DEBUG - Distance calculated: 45.98m between (51.670459,3.639942) and (51.670045,3.639942)
+2025-06-22 23:33:01,484 - appp - DEBUG - GPRMC parsed: 51.669634, 3.639942
+2025-06-22 23:33:01,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:01,485 - appp - DEBUG - Distance calculated: 45.68m between (51.670045,3.639942) and (51.669634,3.639942)
+2025-06-22 23:33:01,488 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:01,492 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:01,493 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:01,493 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:01,498 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:01,499 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:01,499 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:01,499 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:01,505 - appp - DEBUG - Generated signature for record: af588c00a56fc81a...
+2025-06-22 23:33:01,509 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:01.484097+00:00
+2025-06-22 23:33:01,510 - appp - DEBUG - Distance calculated: 45.68m between (51.670045,3.639942) and (51.669634,3.639942)
+2025-06-22 23:33:02,494 - appp - DEBUG - GPRMC parsed: 51.669216, 3.639942
+2025-06-22 23:33:02,495 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:02,495 - appp - DEBUG - Distance calculated: 46.48m between (51.669634,3.639942) and (51.669216,3.639942)
+2025-06-22 23:33:02,499 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:02,504 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:02,505 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:02,505 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:02,511 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:02,513 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:02,513 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:02,514 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:02,520 - appp - DEBUG - Generated signature for record: 2051dbf0f4ef3762...
+2025-06-22 23:33:02,524 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:02.494476+00:00
+2025-06-22 23:33:02,525 - appp - DEBUG - Distance calculated: 46.48m between (51.669634,3.639942) and (51.669216,3.639942)
+2025-06-22 23:33:03,487 - appp - DEBUG - GPRMC parsed: 51.668811, 3.639942
+2025-06-22 23:33:03,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:03,489 - appp - DEBUG - Distance calculated: 45.02m between (51.669216,3.639942) and (51.668811,3.639942)
+2025-06-22 23:33:03,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:03,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:03,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:03,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:03,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:03,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:03,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:03,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:03,511 - appp - DEBUG - Generated signature for record: 99c64e02aafb10ae...
+2025-06-22 23:33:03,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:03.487296+00:00
+2025-06-22 23:33:03,516 - appp - DEBUG - Distance calculated: 45.02m between (51.669216,3.639942) and (51.668811,3.639942)
+2025-06-22 23:33:04,483 - appp - DEBUG - GPRMC parsed: 51.668401, 3.639942
+2025-06-22 23:33:04,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:04,484 - appp - DEBUG - Distance calculated: 45.68m between (51.668811,3.639942) and (51.668401,3.639942)
+2025-06-22 23:33:04,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:04,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:04,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:04,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:04,496 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:04,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:04,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:04,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:04,502 - appp - DEBUG - Generated signature for record: 734880400de22338...
+2025-06-22 23:33:04,505 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:04.483011+00:00
+2025-06-22 23:33:04,505 - appp - DEBUG - Distance calculated: 45.68m between (51.668811,3.639942) and (51.668401,3.639942)
+2025-06-22 23:33:05,486 - appp - DEBUG - GPRMC parsed: 51.667987, 3.639942
+2025-06-22 23:33:05,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:05,487 - appp - DEBUG - Distance calculated: 45.96m between (51.668401,3.639942) and (51.667987,3.639942)
+2025-06-22 23:33:05,490 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:05,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:05,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:05,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:05,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:05,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:05,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:05,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:05,505 - appp - DEBUG - Generated signature for record: 438c4a7294966e85...
+2025-06-22 23:33:05,508 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:05.486730+00:00
+2025-06-22 23:33:05,508 - appp - DEBUG - Distance calculated: 45.96m between (51.668401,3.639942) and (51.667987,3.639942)
+2025-06-22 23:33:06,483 - appp - DEBUG - GPRMC parsed: 51.667574, 3.639942
+2025-06-22 23:33:06,483 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:06,484 - appp - DEBUG - Distance calculated: 46.02m between (51.667987,3.639942) and (51.667574,3.639942)
+2025-06-22 23:33:06,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:06,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:06,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:06,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:06,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:06,498 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:06,498 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:06,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:06,503 - appp - DEBUG - Generated signature for record: 958be320f53af10b...
+2025-06-22 23:33:06,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:06.483049+00:00
+2025-06-22 23:33:06,506 - appp - DEBUG - Distance calculated: 46.02m between (51.667987,3.639942) and (51.667574,3.639942)
+2025-06-22 23:33:07,490 - appp - DEBUG - GPRMC parsed: 51.667157, 3.639942
+2025-06-22 23:33:07,490 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:07,491 - appp - DEBUG - Distance calculated: 46.28m between (51.667574,3.639942) and (51.667157,3.639942)
+2025-06-22 23:33:07,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:07,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:07,499 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:07,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:07,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:07,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:07,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:07,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:07,513 - appp - DEBUG - Generated signature for record: 6ed442df5df6f3c0...
+2025-06-22 23:33:07,517 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:07.490269+00:00
+2025-06-22 23:33:07,517 - appp - DEBUG - Distance calculated: 46.28m between (51.667574,3.639942) and (51.667157,3.639942)
+2025-06-22 23:33:08,485 - appp - DEBUG - GPRMC parsed: 51.666745, 3.639942
+2025-06-22 23:33:08,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:08,486 - appp - DEBUG - Distance calculated: 45.81m between (51.667157,3.639942) and (51.666745,3.639942)
+2025-06-22 23:33:08,489 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:08,495 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:08,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:08,496 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:08,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:08,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:08,502 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:08,502 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:08,508 - appp - DEBUG - Generated signature for record: f1456c7664a7d97f...
+2025-06-22 23:33:08,512 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:08.485635+00:00
+2025-06-22 23:33:08,512 - appp - DEBUG - Distance calculated: 45.81m between (51.667157,3.639942) and (51.666745,3.639942)
+2025-06-22 23:33:09,489 - appp - DEBUG - GPRMC parsed: 51.666331, 3.639942
+2025-06-22 23:33:09,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:09,490 - appp - DEBUG - Distance calculated: 46.09m between (51.666745,3.639942) and (51.666331,3.639942)
+2025-06-22 23:33:09,493 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:09,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:09,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:09,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:09,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:09,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:09,504 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:09,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:09,511 - appp - DEBUG - Generated signature for record: 2addc455851f4da8...
+2025-06-22 23:33:09,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:09.489019+00:00
+2025-06-22 23:33:09,515 - appp - DEBUG - Distance calculated: 46.09m between (51.666745,3.639942) and (51.666331,3.639942)
+2025-06-22 23:33:10,479 - appp - DEBUG - GPRMC parsed: 51.665925, 3.639942
+2025-06-22 23:33:10,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:10,480 - appp - DEBUG - Distance calculated: 45.15m between (51.666331,3.639942) and (51.665925,3.639942)
+2025-06-22 23:33:10,483 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:10,488 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:10,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:10,489 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:10,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:10,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:10,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:10,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:10,501 - appp - DEBUG - Generated signature for record: a60c799046981696...
+2025-06-22 23:33:10,505 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:10.479532+00:00
+2025-06-22 23:33:10,506 - appp - DEBUG - Distance calculated: 45.15m between (51.666331,3.639942) and (51.665925,3.639942)
+2025-06-22 23:33:11,489 - appp - DEBUG - GPRMC parsed: 51.665495, 3.639942
+2025-06-22 23:33:11,489 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:11,490 - appp - DEBUG - Distance calculated: 47.80m between (51.665925,3.639942) and (51.665495,3.639942)
+2025-06-22 23:33:11,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:11,494 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:11,495 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:11,495 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:11,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:11,498 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:11,498 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:11,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:11,501 - appp - DEBUG - Generated signature for record: 00a9fa7af2615d0c...
+2025-06-22 23:33:11,503 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:11.489396+00:00
+2025-06-22 23:33:11,504 - appp - DEBUG - Distance calculated: 47.80m between (51.665925,3.639942) and (51.665495,3.639942)
+2025-06-22 23:33:12,491 - appp - DEBUG - GPRMC parsed: 51.665080, 3.639942
+2025-06-22 23:33:12,493 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:12,494 - appp - DEBUG - Distance calculated: 46.15m between (51.665495,3.639942) and (51.665080,3.639942)
+2025-06-22 23:33:12,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:12,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:12,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:12,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:12,501 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:12,501 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:12,501 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:12,501 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:12,504 - appp - DEBUG - Generated signature for record: f30f92c269d87df0...
+2025-06-22 23:33:12,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:12.491635+00:00
+2025-06-22 23:33:12,509 - appp - DEBUG - Distance calculated: 46.15m between (51.665495,3.639942) and (51.665080,3.639942)
+2025-06-22 23:33:13,491 - appp - DEBUG - GPRMC parsed: 51.664678, 3.639942
+2025-06-22 23:33:13,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:13,492 - appp - DEBUG - Distance calculated: 44.66m between (51.665080,3.639942) and (51.664678,3.639942)
+2025-06-22 23:33:13,495 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:13,500 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:13,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:13,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:13,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:13,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:13,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:13,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:13,512 - appp - DEBUG - Generated signature for record: 1a753012ba61976a...
+2025-06-22 23:33:13,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:13.491463+00:00
+2025-06-22 23:33:13,515 - appp - DEBUG - Distance calculated: 44.66m between (51.665080,3.639942) and (51.664678,3.639942)
+2025-06-22 23:33:14,479 - appp - DEBUG - GPRMC parsed: 51.664264, 3.639942
+2025-06-22 23:33:14,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:14,481 - appp - DEBUG - Distance calculated: 46.11m between (51.664678,3.639942) and (51.664264,3.639942)
+2025-06-22 23:33:14,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:14,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:14,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:14,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:14,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:14,496 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:14,496 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:14,497 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:14,501 - appp - DEBUG - Generated signature for record: 2a8503b9b488453c...
+2025-06-22 23:33:14,505 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:14.479913+00:00
+2025-06-22 23:33:14,506 - appp - DEBUG - Distance calculated: 46.11m between (51.664678,3.639942) and (51.664264,3.639942)
+2025-06-22 23:33:15,492 - appp - DEBUG - GPRMC parsed: 51.663846, 3.639942
+2025-06-22 23:33:15,492 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:15,493 - appp - DEBUG - Distance calculated: 46.42m between (51.664264,3.639942) and (51.663846,3.639942)
+2025-06-22 23:33:15,496 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:15,502 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:15,503 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:15,503 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:15,510 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:15,510 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:15,511 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:15,511 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:15,517 - appp - DEBUG - Generated signature for record: 34da14a5aea3f0bf...
+2025-06-22 23:33:15,522 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:15.491984+00:00
+2025-06-22 23:33:15,523 - appp - DEBUG - Distance calculated: 46.42m between (51.664264,3.639942) and (51.663846,3.639942)
+2025-06-22 23:33:16,490 - appp - DEBUG - GPRMC parsed: 51.663426, 3.639942
+2025-06-22 23:33:16,491 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:16,491 - appp - DEBUG - Distance calculated: 46.66m between (51.663846,3.639942) and (51.663426,3.639942)
+2025-06-22 23:33:16,494 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:16,499 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:16,500 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:16,500 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:16,506 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:16,507 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:16,507 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:16,507 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:16,513 - appp - DEBUG - Generated signature for record: b9e6454073331a0e...
+2025-06-22 23:33:16,517 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:16.490775+00:00
+2025-06-22 23:33:16,517 - appp - DEBUG - Distance calculated: 46.66m between (51.663846,3.639942) and (51.663426,3.639942)
+2025-06-22 23:33:17,488 - appp - DEBUG - GPRMC parsed: 51.663015, 3.639942
+2025-06-22 23:33:17,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:17,489 - appp - DEBUG - Distance calculated: 45.81m between (51.663426,3.639942) and (51.663015,3.639942)
+2025-06-22 23:33:17,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:17,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:17,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:17,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:17,505 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:17,506 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:17,506 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:17,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:17,512 - appp - DEBUG - Generated signature for record: b3b52559f91c55db...
+2025-06-22 23:33:17,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:17.488178+00:00
+2025-06-22 23:33:17,516 - appp - DEBUG - Distance calculated: 45.81m between (51.663426,3.639942) and (51.663015,3.639942)
+2025-06-22 23:33:18,486 - appp - DEBUG - GPRMC parsed: 51.662601, 3.639942
+2025-06-22 23:33:18,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:18,487 - appp - DEBUG - Distance calculated: 46.03m between (51.663015,3.639942) and (51.662601,3.639942)
+2025-06-22 23:33:18,488 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:18,490 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:18,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:18,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:18,493 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:18,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:18,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:18,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:18,495 - appp - DEBUG - Generated signature for record: aa44cc01ef660b70...
+2025-06-22 23:33:18,496 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:18.486318+00:00
+2025-06-22 23:33:18,496 - appp - DEBUG - Distance calculated: 46.03m between (51.663015,3.639942) and (51.662601,3.639942)
+2025-06-22 23:33:19,485 - appp - DEBUG - GPRMC parsed: 51.662187, 3.639942
+2025-06-22 23:33:19,486 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:19,486 - appp - DEBUG - Distance calculated: 45.96m between (51.662601,3.639942) and (51.662187,3.639942)
+2025-06-22 23:33:19,488 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:19,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:19,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:19,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:19,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:19,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:19,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:19,495 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:19,498 - appp - DEBUG - Generated signature for record: ec63694dadae9829...
+2025-06-22 23:33:19,522 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:19.485863+00:00
+2025-06-22 23:33:19,523 - appp - DEBUG - Distance calculated: 45.96m between (51.662601,3.639942) and (51.662187,3.639942)
+2025-06-22 23:33:20,481 - appp - DEBUG - GPRMC parsed: 51.661782, 3.639942
+2025-06-22 23:33:20,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:20,482 - appp - DEBUG - Distance calculated: 45.07m between (51.662187,3.639942) and (51.661782,3.639942)
+2025-06-22 23:33:20,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:20,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:20,490 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:20,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:20,492 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:20,493 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:20,493 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:20,493 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:20,495 - appp - DEBUG - Generated signature for record: c613e9704f69210e...
+2025-06-22 23:33:20,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:20.481810+00:00
+2025-06-22 23:33:20,497 - appp - DEBUG - Distance calculated: 45.07m between (51.662187,3.639942) and (51.661782,3.639942)
+2025-06-22 23:33:21,488 - appp - DEBUG - GPRMC parsed: 51.661370, 3.639942
+2025-06-22 23:33:21,488 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:21,489 - appp - DEBUG - Distance calculated: 45.81m between (51.661782,3.639942) and (51.661370,3.639942)
+2025-06-22 23:33:21,491 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:21,496 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:21,497 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:21,497 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:21,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:21,504 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:21,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:21,505 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:21,511 - appp - DEBUG - Generated signature for record: 917d045150cdec00...
+2025-06-22 23:33:21,521 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:21.487978+00:00
+2025-06-22 23:33:21,522 - appp - DEBUG - Distance calculated: 45.81m between (51.661782,3.639942) and (51.661370,3.639942)
+2025-06-22 23:33:22,486 - appp - DEBUG - GPRMC parsed: 51.660956, 3.639942
+2025-06-22 23:33:22,487 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:22,488 - appp - DEBUG - Distance calculated: 45.98m between (51.661370,3.639942) and (51.660956,3.639942)
+2025-06-22 23:33:22,492 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:22,497 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:22,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:22,499 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:22,504 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:22,505 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:22,505 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:22,506 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:22,511 - appp - DEBUG - Generated signature for record: 4f99d1a1225fa3f6...
+2025-06-22 23:33:22,515 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:22.486566+00:00
+2025-06-22 23:33:22,516 - appp - DEBUG - Distance calculated: 45.98m between (51.661370,3.639942) and (51.660956,3.639942)
+2025-06-22 23:33:23,483 - appp - DEBUG - GPRMC parsed: 51.660536, 3.639942
+2025-06-22 23:33:23,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:23,484 - appp - DEBUG - Distance calculated: 46.79m between (51.660956,3.639942) and (51.660536,3.639942)
+2025-06-22 23:33:23,486 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:23,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:23,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:23,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:23,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:23,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:23,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:23,495 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:23,502 - appp - DEBUG - Generated signature for record: 8b24b174a9edd7d0...
+2025-06-22 23:33:23,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:23.483560+00:00
+2025-06-22 23:33:23,506 - appp - DEBUG - Distance calculated: 46.79m between (51.660956,3.639942) and (51.660536,3.639942)
+2025-06-22 23:33:24,484 - appp - DEBUG - GPRMC parsed: 51.660129, 3.639942
+2025-06-22 23:33:24,485 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:24,485 - appp - DEBUG - Distance calculated: 45.24m between (51.660536,3.639942) and (51.660129,3.639942)
+2025-06-22 23:33:24,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:24,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:24,492 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:24,492 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:24,497 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:24,497 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:24,497 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:24,498 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:24,503 - appp - DEBUG - Generated signature for record: 267f578776115d1c...
+2025-06-22 23:33:24,506 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:24.484372+00:00
+2025-06-22 23:33:24,507 - appp - DEBUG - Distance calculated: 45.24m between (51.660536,3.639942) and (51.660129,3.639942)
+2025-06-22 23:33:25,481 - appp - DEBUG - GPRMC parsed: 51.659709, 3.639942
+2025-06-22 23:33:25,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:25,483 - appp - DEBUG - Distance calculated: 46.72m between (51.660129,3.639942) and (51.659709,3.639942)
+2025-06-22 23:33:25,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:25,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:25,488 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:25,488 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:25,491 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:25,491 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:25,492 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:25,492 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:25,495 - appp - DEBUG - Generated signature for record: 7905591a48778116...
+2025-06-22 23:33:25,497 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:25.481499+00:00
+2025-06-22 23:33:25,498 - appp - DEBUG - Distance calculated: 46.72m between (51.660129,3.639942) and (51.659709,3.639942)
+2025-06-22 23:33:26,480 - appp - DEBUG - GPRMC parsed: 51.659302, 3.639942
+2025-06-22 23:33:26,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:26,480 - appp - DEBUG - Distance calculated: 45.16m between (51.659709,3.639942) and (51.659302,3.639942)
+2025-06-22 23:33:26,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:26,484 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:26,485 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:26,485 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:26,487 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:26,487 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:26,487 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:26,487 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:26,489 - appp - DEBUG - Generated signature for record: 1ed4ae759499ea15...
+2025-06-22 23:33:26,491 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:26.480279+00:00
+2025-06-22 23:33:26,492 - appp - DEBUG - Distance calculated: 45.16m between (51.659709,3.639942) and (51.659302,3.639942)
+2025-06-22 23:33:27,479 - appp - DEBUG - GPRMC parsed: 51.658887, 3.639942
+2025-06-22 23:33:27,480 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:27,480 - appp - DEBUG - Distance calculated: 46.22m between (51.659302,3.639942) and (51.658887,3.639942)
+2025-06-22 23:33:27,482 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:27,484 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:27,484 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:27,484 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:27,488 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:27,488 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:27,488 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:27,488 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:27,490 - appp - DEBUG - Generated signature for record: dad8ce4d294bb860...
+2025-06-22 23:33:27,603 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:27.479857+00:00
+2025-06-22 23:33:27,604 - appp - DEBUG - Distance calculated: 46.22m between (51.659302,3.639942) and (51.658887,3.639942)
+2025-06-22 23:33:28,478 - appp - DEBUG - GPRMC parsed: 51.658467, 3.639942
+2025-06-22 23:33:28,479 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:28,479 - appp - DEBUG - Distance calculated: 46.66m between (51.658887,3.639942) and (51.658467,3.639942)
+2025-06-22 23:33:28,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:28,484 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:28,484 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:28,484 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:28,488 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:28,488 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:28,488 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:28,489 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:28,491 - appp - DEBUG - Generated signature for record: 5304aad6f5644d19...
+2025-06-22 23:33:28,492 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:28.478668+00:00
+2025-06-22 23:33:28,496 - appp - DEBUG - Distance calculated: 46.66m between (51.658887,3.639942) and (51.658467,3.639942)
+2025-06-22 23:33:29,476 - appp - DEBUG - GPRMC parsed: 51.658054, 3.639942
+2025-06-22 23:33:29,477 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:29,480 - appp - DEBUG - Distance calculated: 45.90m between (51.658467,3.639942) and (51.658054,3.639942)
+2025-06-22 23:33:29,481 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:29,483 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:29,484 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:29,484 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:29,487 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:29,487 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:29,487 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:29,487 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:29,490 - appp - DEBUG - Generated signature for record: afba5c5bb38910b3...
+2025-06-22 23:33:29,492 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:29.476581+00:00
+2025-06-22 23:33:29,492 - appp - DEBUG - Distance calculated: 45.90m between (51.658467,3.639942) and (51.658054,3.639942)
+2025-06-22 23:33:30,494 - appp - DEBUG - GPRMC parsed: 51.657633, 3.639942
+2025-06-22 23:33:30,494 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:30,495 - appp - DEBUG - Distance calculated: 46.85m between (51.658054,3.639942) and (51.657633,3.639942)
+2025-06-22 23:33:30,496 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:30,498 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:30,498 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:30,498 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:30,500 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:30,500 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:30,500 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:30,500 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:30,501 - appp - DEBUG - Generated signature for record: 08aba079678d4da9...
+2025-06-22 23:33:30,503 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:30.494206+00:00
+2025-06-22 23:33:30,503 - appp - DEBUG - Distance calculated: 46.85m between (51.658054,3.639942) and (51.657633,3.639942)
+2025-06-22 23:33:31,481 - appp - DEBUG - GPRMC parsed: 51.657225, 3.639942
+2025-06-22 23:33:31,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:31,482 - appp - DEBUG - Distance calculated: 45.37m between (51.657633,3.639942) and (51.657225,3.639942)
+2025-06-22 23:33:31,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:31,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:31,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:31,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:31,489 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:31,489 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:31,489 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:31,490 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:31,494 - appp - DEBUG - Generated signature for record: 9e294ea9b89af62e...
+2025-06-22 23:33:31,500 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:31.481064+00:00
+2025-06-22 23:33:31,500 - appp - DEBUG - Distance calculated: 45.37m between (51.657633,3.639942) and (51.657225,3.639942)
+2025-06-22 23:33:32,481 - appp - DEBUG - GPRMC parsed: 51.656811, 3.639942
+2025-06-22 23:33:32,482 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:32,482 - appp - DEBUG - Distance calculated: 46.02m between (51.657225,3.639942) and (51.656811,3.639942)
+2025-06-22 23:33:32,485 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:32,489 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:32,489 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:32,490 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:32,494 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:32,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:32,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:32,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:32,500 - appp - DEBUG - Generated signature for record: 41f319098fd438b5...
+2025-06-22 23:33:32,504 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:32.481516+00:00
+2025-06-22 23:33:32,505 - appp - DEBUG - Distance calculated: 46.02m between (51.657225,3.639942) and (51.656811,3.639942)
+2025-06-22 23:33:33,484 - appp - DEBUG - GPRMC parsed: 51.656396, 3.639942
+2025-06-22 23:33:33,484 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:33,485 - appp - DEBUG - Distance calculated: 46.15m between (51.656811,3.639942) and (51.656396,3.639942)
+2025-06-22 23:33:33,487 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:33,491 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:33,491 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:33,491 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:33,495 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:33,495 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:33,495 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:33,496 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:33,499 - appp - DEBUG - Generated signature for record: 6944d951591cf9e9...
+2025-06-22 23:33:33,501 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:33.484238+00:00
+2025-06-22 23:33:33,502 - appp - DEBUG - Distance calculated: 46.15m between (51.656811,3.639942) and (51.656396,3.639942)
+2025-06-22 23:33:34,481 - appp - DEBUG - GPRMC parsed: 51.655983, 3.639942
+2025-06-22 23:33:34,481 - appp - DEBUG - Heading calculated: 180.00°
+2025-06-22 23:33:34,482 - appp - DEBUG - Distance calculated: 45.92m between (51.656396,3.639942) and (51.655983,3.639942)
+2025-06-22 23:33:34,484 - appp - DEBUG - SO2/CO2 ratio from JSON: 25.0
+2025-06-22 23:33:34,487 - appp - INFO -   Input SO2/CO2 ratio: 25.0
+2025-06-22 23:33:34,487 - appp - INFO -   Calculated sulphur content: 0.5795%
+2025-06-22 23:33:34,487 - appp - WARNING - ECA polygon not available, assuming outside ECA
+2025-06-22 23:33:34,490 - appp - INFO -   Sulphur content: 0.5795%
+2025-06-22 23:33:34,490 - appp - INFO -   In ECA zone: False
+2025-06-22 23:33:34,490 - appp - INFO -   Region: Non-ECA (max 0.5%)
+2025-06-22 23:33:34,491 - appp - INFO -   Result: Non Compliant
+2025-06-22 23:33:34,493 - appp - DEBUG - Generated signature for record: c94b07bd9a43d6df...
+2025-06-22 23:33:34,496 - appp - DEBUG - Record appended to CSV: 2025-06-22T19:33:34.481435+00:00
+2025-06-22 23:33:34,496 - appp - DEBUG - Distance calculated: 45.92m between (51.656396,3.639942) and (51.655983,3.639942)

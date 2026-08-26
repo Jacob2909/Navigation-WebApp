@@ -1,0 +1,8 @@
+[uwsgi]
+module = appp:app
+master = true
+processes = 4
+threads = 2
+socket = 127.0.0.1:8000
+vacuum = true
+die-on-term = true

@@ -1,0 +1,1 @@
+python -m waitress --host=127.0.0.1 --port=8503 appp:app
