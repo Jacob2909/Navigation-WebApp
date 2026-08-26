@@ -92,7 +92,7 @@ def modbus_loop():
             log_error(f"Modbus read error: {e}")
         time.sleep(10)
 
-SECRET_KEY = b'1234'
+SECRET_KEY = b'0000'
 SIGNATURE_FIELDS = [
     'timestamp', 'lat', 'lon', 'heading',
     'in_eca', 'sulphur', 'so2_co2', 'compliance', 'vessel_name'
@@ -695,9 +695,9 @@ INDEX_HTML = """
 
 driver = '{ODBC Driver 18 for SQL Server}'
 server = 'vessellogs.database.windows.net'  
-database = 'Vessel_Logs'
-username = 'SQL'
-password = 'Vessel_logs123'
+database = 'XYZ'
+username = 'ABC'
+password = 'XYZ'
 
 def azure_upload_loop():
     global azure_connection_status
